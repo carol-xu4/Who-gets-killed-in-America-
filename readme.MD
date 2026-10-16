@@ -9,4 +9,4 @@
 
 ### NVSS Detailed Mortality - Limited Geography Files
 > Native-born vs. foreign-born homicide rates (all US decedents), 2014-2024
-https://www.cdc.gov/nchs/nvss/nvss-restricted-data.htm
+- https://www.cdc.gov/nchs/nvss/nvss-restricted-data.htm
