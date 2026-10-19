@@ -1,0 +1,21 @@
+race_ethnicity,n_victims,n_offenders,acs_pop,victim_rate_per_100k,offender_rate_per_100k,offender_to_victim_ratio
+"American Indian or Alaska Native, Hispanic/Latino",24,24,12005720,0.2,0.2,1
+"American Indian or Alaska Native, Not Hispanic/Latino",481,411,18359969,2.62,2.24,0.85
+"American Indian or Alaska Native, Unknown",305,355,NA,NA,NA,NA
+"Asian, Hispanic/Latino",18,12,3539249,0.51,0.34,0.67
+"Asian, Not Hispanic/Latino",624,398,92241362,0.68,0.43,0.64
+"Asian, Unknown",177,173,NA,NA,NA,NA
+"Black or African American, Hispanic/Latino",358,309,11999303,2.98,2.58,0.86
+"Black or African American, Not Hispanic/Latino",26589,22883,180663489,14.72,12.67,0.86
+"Black or African American, Unknown",8027,11090,NA,NA,NA,NA
+"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15,28,612918,2.45,4.57,1.87
+"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",94,89,3249171,2.89,2.74,0.95
+"Native Hawaiian or Other Pacific Islander, Unknown",32,34,NA,NA,NA,NA
+No offender information,0,11531,NA,NA,NA,NA
+"Unknown, Hispanic/Latino",372,257,NA,NA,NA,NA
+"Unknown, Not Hispanic/Latino",197,343,NA,NA,NA,NA
+"Unknown, Unknown",1067,7165,NA,NA,NA,NA
+"White, Hispanic/Latino",8171,7470,231057138,3.54,3.23,0.91
+"White, Not Hispanic/Latino",11791,8609,786478874,1.5,1.09,0.73
+"White, Unknown",5058,6716,NA,NA,NA,NA
+Total,63400,77897,1340207193,4.73,5.81,1.23

@@ -1,0 +1,1920 @@
+year,race_ethnicity,age_group_5yr,sex,n_victims,n_offenders,acs_pop,victim_rate_per_100k,offender_rate_per_100k
+2021,"American Indian or Alaska Native, Hispanic/Latino",25-29,Female,1,0,105897,0.9443138143667904,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",35-39,Female,1,0,109597,0.9124337345000318,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",40-44,Male,1,0,109938,0.9096035947534065,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",65-69,Male,1,0,35071,2.851358672407402,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,Female,2,0,135061,1.4808123736681944,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,Male,3,0,140005,2.1427806149780366,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,Female,1,0,170318,0.5871370025481746,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,Male,3,1,186184,1.6113092424698148,0.5371030808232716
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,Female,3,1,173787,1.7262511004850765,0.5754170334950255
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,Male,4,23,192250,2.0806241872561766,11.963589076723018
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,Female,4,7,159055,2.5148533526138754,4.400993367074283
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,Male,11,27,168252,6.53781232912536,16.047357535125883
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,Female,7,7,151374,4.624308005337773,4.624308005337773
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,Male,16,19,164122,9.748845371126357,11.576753878212548
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,Female,6,4,173320,3.4618047542118626,2.3078698361412417
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,Male,22,18,173767,12.660631765525101,10.358698717247808
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,Female,6,4,165819,3.6184031986684273,2.412268799112285
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,Male,10,15,162335,6.160101025656822,9.24015153848523
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,Female,7,3,155862,4.491152429713464,1.924779612734342
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,Male,25,16,158959,15.727325914229455,10.065488585106852
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,Female,2,2,136610,1.4640216675206792,1.4640216675206792
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,Male,8,5,138056,5.794749956539375,3.6217187228371093
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,Female,1,0,149154,0.670447993349156,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,Female,3,0,150526,1.9930111741493164,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,Male,11,5,146561,7.505407304808237,3.4115487749128355
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,Female,2,2,160219,1.2482914011446833,1.2482914011446833
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,Male,5,3,144302,3.464955440673033,2.0789732644038197
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,Female,1,1,156812,0.6377062979873989,0.6377062979873989
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,Male,3,0,142100,2.1111893033075297,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,Female,4,0,130062,3.0754563208316035,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,Male,4,0,104451,3.829546868866741,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,Female,3,1,95152,3.15285017655961,1.0509500588532033
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,Male,1,0,77801,1.2853305227439236,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,Male,1,0,45845,2.1812629512487733,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,Male,1,1,NA,NA,NA
+2021,"Asian, Hispanic/Latino",0-4,Male,1,0,75678,1.3213879859404318,0
+2021,"Asian, Hispanic/Latino",20-24,Male,1,1,33688,2.968416053194016,2.968416053194016
+2021,"Asian, Hispanic/Latino",25-29,Male,1,0,27009,3.7024695471879743,0
+2021,"Asian, Hispanic/Latino",75-79,Male,1,0,2309,43.30879168471199,0
+2021,"Asian, Not Hispanic/Latino",0-4,Female,3,0,629532,0.476544480661825,0
+2021,"Asian, Not Hispanic/Latino",0-4,Male,2,0,674594,0.29647462029013005,0
+2021,"Asian, Not Hispanic/Latino",10-14,Female,2,0,695172,0.2876985839475698,0
+2021,"Asian, Not Hispanic/Latino",10-14,Male,1,0,744714,0.13427973691913941,0
+2021,"Asian, Not Hispanic/Latino",15-19,Male,13,12,688725,1.8875458274347525,1.7423499945551564
+2021,"Asian, Not Hispanic/Latino",20-24,Female,6,3,673684,0.8906252783203995,0.44531263916019975
+2021,"Asian, Not Hispanic/Latino",20-24,Male,9,13,702049,1.2819618003871525,1.8517226005592204
+2021,"Asian, Not Hispanic/Latino",25-29,Female,8,1,827741,0.9664858935343302,0.12081073669179128
+2021,"Asian, Not Hispanic/Latino",25-29,Male,14,20,812259,1.7235881658436532,2.4622688083480764
+2021,"Asian, Not Hispanic/Latino",30-34,Female,7,2,962353,0.727383818619571,0.20782394817702027
+2021,"Asian, Not Hispanic/Latino",30-34,Male,11,16,900168,1.2219941166537802,1.7774459878600442
+2021,"Asian, Not Hispanic/Latino",35-39,Female,4,3,947487,0.42216938068807275,0.31662703551605453
+2021,"Asian, Not Hispanic/Latino",35-39,Male,9,11,887750,1.0137989298789074,1.239087580963109
+2021,"Asian, Not Hispanic/Latino",40-44,Female,6,1,887669,0.6759276261759732,0.1126546043626622
+2021,"Asian, Not Hispanic/Latino",40-44,Male,6,15,773226,0.7759697682178303,1.9399244205445756
+2021,"Asian, Not Hispanic/Latino",45-49,Female,4,1,815592,0.490441299080913,0.12261032477022825
+2021,"Asian, Not Hispanic/Latino",45-49,Male,8,2,727070,1.1003067104955506,0.27507667762388766
+2021,"Asian, Not Hispanic/Latino",5-9,Female,3,0,688008,0.4360414413785886,0
+2021,"Asian, Not Hispanic/Latino",5-9,Male,1,0,726913,0.13756804459405733,0
+2021,"Asian, Not Hispanic/Latino",50-54,Female,4,0,731506,0.5468171142820428,0
+2021,"Asian, Not Hispanic/Latino",50-54,Male,6,1,650749,0.9220144787006972,0.15366907978344954
+2021,"Asian, Not Hispanic/Latino",55-59,Female,2,0,655448,0.3051348085584211,0
+2021,"Asian, Not Hispanic/Latino",55-59,Male,6,3,574118,1.0450813247450872,0.5225406623725436
+2021,"Asian, Not Hispanic/Latino",60-64,Female,3,0,590626,0.5079356479396437,0
+2021,"Asian, Not Hispanic/Latino",60-64,Male,3,0,492922,0.6086155618941739,0
+2021,"Asian, Not Hispanic/Latino",65-69,Female,5,0,531912,0.9400051136278181,0
+2021,"Asian, Not Hispanic/Latino",65-69,Male,7,1,424613,1.6485599828549762,0.2355085689792823
+2021,"Asian, Not Hispanic/Latino",70-74,Female,3,0,425177,0.7055884960851598,0
+2021,"Asian, Not Hispanic/Latino",70-74,Male,4,1,334396,1.1961865572554695,0.2990466393138674
+2021,"Asian, Not Hispanic/Latino",75-79,Female,1,0,274834,0.36385600034930177,0
+2021,"Asian, Not Hispanic/Latino",80+,Female,1,0,345646,0.2893133437100386,0
+2021,"Asian, Not Hispanic/Latino",Unknown,Female,1,1,NA,NA,NA
+2021,"Black or African American, Hispanic/Latino",0-4,Female,1,0,165762,0.6032745743897878,0
+2021,"Black or African American, Hispanic/Latino",0-4,Male,2,0,192425,1.0393659867480838,0
+2021,"Black or African American, Hispanic/Latino",10-14,Male,1,4,167055,0.5986052497680405,2.394420999072162
+2021,"Black or African American, Hispanic/Latino",15-19,Female,1,1,127884,0.7819586500265865,0.7819586500265865
+2021,"Black or African American, Hispanic/Latino",15-19,Male,11,10,136233,8.074401943728759,7.3403654033897805
+2021,"Black or African American, Hispanic/Latino",20-24,Female,1,1,107655,0.928893223723933,0.928893223723933
+2021,"Black or African American, Hispanic/Latino",20-24,Male,9,15,113157,7.953551260637875,13.255918767729792
+2021,"Black or African American, Hispanic/Latino",25-29,Female,1,1,99726,1.002747528227343,1.002747528227343
+2021,"Black or African American, Hispanic/Latino",25-29,Male,11,12,102331,10.749430768779744,11.72665174775972
+2021,"Black or African American, Hispanic/Latino",30-34,Female,2,2,109769,1.8220080350554346,1.8220080350554346
+2021,"Black or African American, Hispanic/Latino",30-34,Male,7,6,102195,6.8496501785801645,5.871128724497284
+2021,"Black or African American, Hispanic/Latino",35-39,Female,3,0,89255,3.361156237745785,0
+2021,"Black or African American, Hispanic/Latino",35-39,Male,10,5,79226,12.622119001337945,6.311059500668972
+2021,"Black or African American, Hispanic/Latino",40-44,Female,1,1,83297,1.2005234282147017,1.2005234282147017
+2021,"Black or African American, Hispanic/Latino",40-44,Male,4,8,69649,5.743083174202071,11.486166348404142
+2021,"Black or African American, Hispanic/Latino",45-49,Male,4,3,56048,7.136739937196689,5.352554952897517
+2021,"Black or African American, Hispanic/Latino",50-54,Male,4,0,50790,7.875566056310297,0
+2021,"Black or African American, Hispanic/Latino",60-64,Male,1,1,29612,3.3770093205457243,3.3770093205457243
+2021,"Black or African American, Hispanic/Latino",65-69,Male,2,0,27109,7.377623667416725,0
+2021,"Black or African American, Hispanic/Latino",75-79,Male,1,0,11448,8.735150244584206,0
+2021,"Black or African American, Hispanic/Latino",Unknown,Female,1,0,NA,NA,NA
+2021,"Black or African American, Hispanic/Latino",Unknown,Male,1,1,NA,NA,NA
+2021,"Black or African American, Not Hispanic/Latino",0-4,Female,55,0,1484339,3.7053530224564604,0
+2021,"Black or African American, Not Hispanic/Latino",0-4,Male,96,3,1527839,6.28338457128009,0.1963557678525028
+2021,"Black or African American, Not Hispanic/Latino",0-4,Unknown,1,0,NA,NA,NA
+2021,"Black or African American, Not Hispanic/Latino",10-14,Female,35,13,1725704,2.02815778372189,0.753315748239559
+2021,"Black or African American, Not Hispanic/Latino",10-14,Male,84,78,1777665,4.725299761203601,4.387778349689058
+2021,"Black or African American, Not Hispanic/Latino",15-19,Female,157,116,1639918,9.573649414178027,7.073524407927714
+2021,"Black or African American, Not Hispanic/Latino",15-19,Male,1017,1671,1710996,59.43906356297735,97.66241417279761
+2021,"Black or African American, Not Hispanic/Latino",20-24,Female,230,217,1625924,14.145802632841388,13.346257266637307
+2021,"Black or African American, Not Hispanic/Latino",20-24,Male,1472,1868,1664660,88.42646546441915,112.21510698881453
+2021,"Black or African American, Not Hispanic/Latino",25-29,Female,220,176,1674215,13.140486735574582,10.512389388459667
+2021,"Black or African American, Not Hispanic/Latino",25-29,Male,1396,1352,1661766,84.00701422462609,81.3592286759989
+2021,"Black or African American, Not Hispanic/Latino",30-34,Female,198,154,1708717,11.58764148773612,9.012610046016983
+2021,"Black or African American, Not Hispanic/Latino",30-34,Male,1138,931,1618020,70.33287598422764,57.53946181134967
+2021,"Black or African American, Not Hispanic/Latino",35-39,Female,127,93,1545744,8.216108230082083,6.016520199981368
+2021,"Black or African American, Not Hispanic/Latino",35-39,Male,763,564,1430178,53.35000258709056,39.435650667259594
+2021,"Black or African American, Not Hispanic/Latino",40-44,Female,121,53,1489917,8.121257761338384,3.557245135131689
+2021,"Black or African American, Not Hispanic/Latino",40-44,Male,552,398,1379413,40.017021733157506,28.852852626443276
+2021,"Black or African American, Not Hispanic/Latino",40-44,Unknown,1,0,NA,NA,NA
+2021,"Black or African American, Not Hispanic/Latino",45-49,Female,79,28,1349210,5.855278273952906,2.075288502160524
+2021,"Black or African American, Not Hispanic/Latino",45-49,Male,357,213,1193382,29.91498112088166,17.84843411413948
+2021,"Black or African American, Not Hispanic/Latino",5-9,Female,34,0,1553347,2.188821943841267,0
+2021,"Black or African American, Not Hispanic/Latino",5-9,Male,37,1,1631504,2.267846110092283,0.06129313811060224
+2021,"Black or African American, Not Hispanic/Latino",50-54,Female,58,19,1372196,4.226801419039263,1.3846418441680342
+2021,"Black or African American, Not Hispanic/Latino",50-54,Male,267,204,1231283,21.68469799388118,16.568083860493484
+2021,"Black or African American, Not Hispanic/Latino",55-59,Female,54,12,1355106,3.98492811632448,0.8855395814054399
+2021,"Black or African American, Not Hispanic/Latino",55-59,Male,209,107,1173946,17.80320389523879,9.114558932012205
+2021,"Black or African American, Not Hispanic/Latino",60-64,Female,37,8,1375063,2.69078580399589,0.5817915251883005
+2021,"Black or African American, Not Hispanic/Latino",60-64,Male,159,62,1172597,13.5596458118177,5.28740905869621
+2021,"Black or African American, Not Hispanic/Latino",65-69,Female,17,2,1113490,1.5267312683544532,0.17961544333581803
+2021,"Black or African American, Not Hispanic/Latino",65-69,Male,81,31,896314,9.037011582994353,3.4586093712694437
+2021,"Black or African American, Not Hispanic/Latino",70-74,Female,20,1,855454,2.337939854159312,0.11689699270796558
+2021,"Black or African American, Not Hispanic/Latino",70-74,Male,39,11,629543,6.1949700020491045,1.7472992313471836
+2021,"Black or African American, Not Hispanic/Latino",75-79,Female,8,0,521904,1.532848953064165,0
+2021,"Black or African American, Not Hispanic/Latino",75-79,Male,14,7,347192,4.032350975828936,2.016175487914468
+2021,"Black or African American, Not Hispanic/Latino",80+,Female,9,1,673388,1.336525153403387,0.14850279482259857
+2021,"Black or African American, Not Hispanic/Latino",80+,Male,7,14,341112,2.0521119163207393,4.104223832641479
+2021,"Black or African American, Not Hispanic/Latino",Unknown,Female,12,16,NA,NA,NA
+2021,"Black or African American, Not Hispanic/Latino",Unknown,Male,54,532,NA,NA,NA
+2021,"Black or African American, Not Hispanic/Latino",Unknown,Unknown,1,14,NA,NA,NA
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,Female,1,0,4517,22.13858755811379,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,Male,1,0,4655,21.482277121374867,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,Female,2,0,31907,6.268217005672736,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,Male,1,3,32372,3.0890893364636103,9.26726800939083
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,Male,5,1,34563,14.466336834186846,2.893267366837369
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,Female,1,3,31805,3.144159723313944,9.432479169941834
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,Male,4,7,29075,13.757523645743767,24.07566638005159
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,Male,2,7,32756,6.105751618024179,21.370130663084627
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,Male,1,2,31099,3.2155374770892955,6.431074954178591
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,Male,2,3,27268,7.334604664808566,11.001906997212851
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,Male,1,0,21902,4.565793078257694,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,Male,2,1,18820,10.626992561105208,5.313496280552604
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,Male,3,0,19903,15.073104557101946,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,Male,2,0,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",0-4,Female,1,0,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",15-19,Male,6,6,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",20-24,Female,4,2,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",20-24,Male,7,6,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",25-29,Male,9,6,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",25-29,Unknown,1,0,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",30-34,Female,1,1,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",30-34,Male,5,5,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",35-39,Female,1,0,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",35-39,Male,3,6,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",40-44,Female,1,0,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",40-44,Male,4,4,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",45-49,Female,1,0,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",45-49,Male,3,1,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",50-54,Female,1,0,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",55-59,Male,2,0,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",65-69,Female,2,0,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",Unknown,Male,1,4,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",0-4,Female,2,0,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",15-19,Female,1,0,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",15-19,Male,5,2,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",20-24,Female,1,0,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",20-24,Male,2,6,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",20-24,Unknown,1,2,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",25-29,Female,2,0,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",25-29,Male,5,2,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",30-34,Female,1,1,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",30-34,Male,4,5,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",35-39,Female,1,1,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",40-44,Female,1,1,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",40-44,Male,3,3,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",45-49,Female,1,0,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",45-49,Male,4,0,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",50-54,Female,5,0,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",50-54,Male,2,2,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",60-64,Male,4,1,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",70-74,Male,1,0,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",Unknown,Male,1,14,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",Unknown,Unknown,3,39,NA,NA,NA
+2021,"Unknown, Unknown",0-4,Female,4,0,NA,NA,NA
+2021,"Unknown, Unknown",0-4,Male,5,0,NA,NA,NA
+2021,"Unknown, Unknown",0-4,Unknown,1,21,NA,NA,NA
+2021,"Unknown, Unknown",10-14,Female,1,0,NA,NA,NA
+2021,"Unknown, Unknown",10-14,Male,2,3,NA,NA,NA
+2021,"Unknown, Unknown",15-19,Female,4,2,NA,NA,NA
+2021,"Unknown, Unknown",15-19,Male,12,26,NA,NA,NA
+2021,"Unknown, Unknown",15-19,Unknown,2,30,NA,NA,NA
+2021,"Unknown, Unknown",20-24,Female,5,9,NA,NA,NA
+2021,"Unknown, Unknown",20-24,Male,12,36,NA,NA,NA
+2021,"Unknown, Unknown",20-24,Unknown,4,39,NA,NA,NA
+2021,"Unknown, Unknown",25-29,Female,9,3,NA,NA,NA
+2021,"Unknown, Unknown",25-29,Male,7,33,NA,NA,NA
+2021,"Unknown, Unknown",30-34,Female,7,2,NA,NA,NA
+2021,"Unknown, Unknown",30-34,Male,15,16,NA,NA,NA
+2021,"Unknown, Unknown",30-34,Unknown,1,20,NA,NA,NA
+2021,"Unknown, Unknown",35-39,Female,4,3,NA,NA,NA
+2021,"Unknown, Unknown",35-39,Male,11,14,NA,NA,NA
+2021,"Unknown, Unknown",35-39,Unknown,1,12,NA,NA,NA
+2021,"Unknown, Unknown",40-44,Female,4,2,NA,NA,NA
+2021,"Unknown, Unknown",40-44,Male,12,12,NA,NA,NA
+2021,"Unknown, Unknown",45-49,Female,2,3,NA,NA,NA
+2021,"Unknown, Unknown",45-49,Male,4,5,NA,NA,NA
+2021,"Unknown, Unknown",45-49,Unknown,4,7,NA,NA,NA
+2021,"Unknown, Unknown",5-9,Female,1,0,NA,NA,NA
+2021,"Unknown, Unknown",5-9,Male,2,0,NA,NA,NA
+2021,"Unknown, Unknown",50-54,Female,6,0,NA,NA,NA
+2021,"Unknown, Unknown",50-54,Male,6,8,NA,NA,NA
+2021,"Unknown, Unknown",50-54,Unknown,2,47,NA,NA,NA
+2021,"Unknown, Unknown",55-59,Female,2,0,NA,NA,NA
+2021,"Unknown, Unknown",55-59,Male,7,8,NA,NA,NA
+2021,"Unknown, Unknown",55-59,Unknown,4,27,NA,NA,NA
+2021,"Unknown, Unknown",60-64,Female,1,0,NA,NA,NA
+2021,"Unknown, Unknown",60-64,Male,2,0,NA,NA,NA
+2021,"Unknown, Unknown",70-74,Female,2,0,NA,NA,NA
+2021,"Unknown, Unknown",70-74,Male,2,0,NA,NA,NA
+2021,"Unknown, Unknown",75-79,Male,2,0,NA,NA,NA
+2021,"Unknown, Unknown",80+,Female,3,0,NA,NA,NA
+2021,"Unknown, Unknown",80+,Male,2,2,NA,NA,NA
+2021,"Unknown, Unknown",Unknown,Male,20,160,NA,NA,NA
+2021,"Unknown, Unknown",Unknown,Unknown,31,1307,NA,NA,NA
+2021,"White, Hispanic/Latino",0-4,Female,15,0,2013603,0.7449333359157689,0
+2021,"White, Hispanic/Latino",0-4,Male,17,0,2099183,0.8098388754101001,0
+2021,"White, Hispanic/Latino",10-14,Female,4,0,2431801,0.16448714347925672,0
+2021,"White, Hispanic/Latino",10-14,Male,19,12,2512099,0.7563396187809477,0.4776881802827039
+2021,"White, Hispanic/Latino",15-19,Female,32,34,2283893,1.401116427083055,1.488686203775746
+2021,"White, Hispanic/Latino",15-19,Male,213,347,2456181,8.671999335553854,14.12762333069102
+2021,"White, Hispanic/Latino",15-19,Unknown,1,1,NA,NA,NA
+2021,"White, Hispanic/Latino",20-24,Female,53,50,2182267,2.428667069611555,2.2911953486901466
+2021,"White, Hispanic/Latino",20-24,Male,257,300,2260097,11.371193360284979,13.273766568426046
+2021,"White, Hispanic/Latino",25-29,Female,44,40,2101642,2.0936010985695948,1.9032737259723587
+2021,"White, Hispanic/Latino",25-29,Male,212,239,2195010,9.658270349565607,10.888333082765
+2021,"White, Hispanic/Latino",30-34,Female,48,31,2018574,2.377916291401752,1.5357376048636313
+2021,"White, Hispanic/Latino",30-34,Male,187,180,2218460,8.429270755388872,8.11373655598929
+2021,"White, Hispanic/Latino",35-39,Female,38,24,1981974,1.917280448683989,1.2109139675898877
+2021,"White, Hispanic/Latino",35-39,Male,154,116,2179391,7.066194179933753,5.322587823846203
+2021,"White, Hispanic/Latino",40-44,Female,28,8,1935794,1.446434899581257,0.4132671141660734
+2021,"White, Hispanic/Latino",40-44,Male,132,75,2087395,6.32367137029647,3.592995096759358
+2021,"White, Hispanic/Latino",40-44,Unknown,1,0,NA,NA,NA
+2021,"White, Hispanic/Latino",45-49,Female,24,5,1804977,1.3296568321923217,0.277011840040067
+2021,"White, Hispanic/Latino",45-49,Male,86,56,1835271,4.685956460925934,3.0513204861843293
+2021,"White, Hispanic/Latino",5-9,Female,2,0,2115493,0.09454061062835,0
+2021,"White, Hispanic/Latino",5-9,Male,8,0,2266237,0.35300809226925517,0
+2021,"White, Hispanic/Latino",50-54,Female,23,2,1590120,1.446431715845345,0.1257766709430735
+2021,"White, Hispanic/Latino",50-54,Male,54,33,1653784,3.2652389913072084,1.9954238280210717
+2021,"White, Hispanic/Latino",55-59,Female,7,2,1382557,0.5063082390093139,0.14465949685980398
+2021,"White, Hispanic/Latino",55-59,Male,37,22,1392459,2.657169798177182,1.5799387989161622
+2021,"White, Hispanic/Latino",60-64,Female,9,1,1165372,0.77228558777798,0.08580950975310889
+2021,"White, Hispanic/Latino",60-64,Male,32,9,1122943,2.849654880078508,0.8014654350220805
+2021,"White, Hispanic/Latino",65-69,Female,5,1,921250,0.5427408412483039,0.10854816824966079
+2021,"White, Hispanic/Latino",65-69,Male,17,8,793491,2.1424313571294444,1.0082029915903268
+2021,"White, Hispanic/Latino",70-74,Female,4,0,653396,0.6121861780604717,0
+2021,"White, Hispanic/Latino",70-74,Male,8,3,552791,1.4472015644248912,0.5427005866593342
+2021,"White, Hispanic/Latino",75-79,Female,2,0,452972,0.44152839469106253,0
+2021,"White, Hispanic/Latino",75-79,Male,5,1,333380,1.4997900293958846,0.2999580058791769
+2021,"White, Hispanic/Latino",80+,Female,2,0,588020,0.3401244855617156,0
+2021,"White, Hispanic/Latino",80+,Male,6,3,368162,1.6297173526871322,0.8148586763435661
+2021,"White, Hispanic/Latino",Unknown,Female,1,3,NA,NA,NA
+2021,"White, Hispanic/Latino",Unknown,Male,11,46,NA,NA,NA
+2021,"White, Not Hispanic/Latino",0-4,Female,42,0,4443013,0.945304458933611,0
+2021,"White, Not Hispanic/Latino",0-4,Male,81,0,4667389,1.735445663517654,0
+2021,"White, Not Hispanic/Latino",0-4,Unknown,1,0,NA,NA,NA
+2021,"White, Not Hispanic/Latino",10-14,Female,16,5,5272893,0.30343873846861674,0.09482460577144274
+2021,"White, Not Hispanic/Latino",10-14,Male,17,22,5549687,0.306323581852454,0.39641875298552876
+2021,"White, Not Hispanic/Latino",15-19,Female,68,68,5462185,1.2449230481940836,1.2449230481940836
+2021,"White, Not Hispanic/Latino",15-19,Male,183,346,5764414,3.174650536897593,6.002344730964848
+2021,"White, Not Hispanic/Latino",20-24,Female,92,104,5545382,1.6590380969246121,1.8754343704365182
+2021,"White, Not Hispanic/Latino",20-24,Male,279,487,5840534,4.776960462861786,8.338278657396739
+2021,"White, Not Hispanic/Latino",25-29,Female,138,139,5838610,2.3635762621582876,2.380703626376826
+2021,"White, Not Hispanic/Latino",25-29,Male,302,422,6083018,4.964640906865638,6.937345902971189
+2021,"White, Not Hispanic/Latino",25-29,Unknown,1,1,NA,NA,NA
+2021,"White, Not Hispanic/Latino",30-34,Female,167,122,6249289,2.6723040013031882,1.9522220847843652
+2021,"White, Not Hispanic/Latino",30-34,Male,326,480,6400526,5.093331391826235,7.499383644406725
+2021,"White, Not Hispanic/Latino",35-39,Female,161,95,6230056,2.584246433739921,1.524865908107407
+2021,"White, Not Hispanic/Latino",35-39,Male,319,406,6410281,4.976380910602827,6.333575704403598
+2021,"White, Not Hispanic/Latino",35-39,Unknown,2,1,NA,NA,NA
+2021,"White, Not Hispanic/Latino",40-44,Female,142,79,5968392,2.379200293814481,1.3236396000798876
+2021,"White, Not Hispanic/Latino",40-44,Male,259,297,6139828,4.21835921136553,4.837269057048504
+2021,"White, Not Hispanic/Latino",40-44,Unknown,1,0,NA,NA,NA
+2021,"White, Not Hispanic/Latino",45-49,Female,111,46,5633338,1.9704125688889964,0.8165673708909353
+2021,"White, Not Hispanic/Latino",45-49,Male,218,196,5767766,3.7796262885838297,3.3981961126716995
+2021,"White, Not Hispanic/Latino",5-9,Female,21,0,4826941,0.43505814552114896,0
+2021,"White, Not Hispanic/Latino",5-9,Male,25,0,5107668,0.48946016068389725,0
+2021,"White, Not Hispanic/Latino",50-54,Female,121,31,6442367,1.8781916646474812,0.48118960003365224
+2021,"White, Not Hispanic/Latino",50-54,Male,214,163,6562470,3.260967288231413,2.4838208784192535
+2021,"White, Not Hispanic/Latino",55-59,Female,101,29,7019560,1.4388366222384308,0.413131307375391
+2021,"White, Not Hispanic/Latino",55-59,Male,200,151,7007886,2.8539277037326234,2.1547154163181306
+2021,"White, Not Hispanic/Latino",55-59,Unknown,2,0,NA,NA,NA
+2021,"White, Not Hispanic/Latino",60-64,Female,80,12,7731087,1.0347833364182812,0.1552175004627422
+2021,"White, Not Hispanic/Latino",60-64,Male,174,90,7458443,2.332926590710689,1.2066861676089768
+2021,"White, Not Hispanic/Latino",65-69,Female,56,8,6872117,0.8148871737777457,0.1164124533968208
+2021,"White, Not Hispanic/Latino",65-69,Male,125,56,6405271,1.9515177421845227,0.8742799484986662
+2021,"White, Not Hispanic/Latino",70-74,Female,63,10,6133264,1.0271855247059316,0.1630453213818939
+2021,"White, Not Hispanic/Latino",70-74,Male,68,36,5561522,1.222686883194924,0.6473048205149597
+2021,"White, Not Hispanic/Latino",75-79,Female,39,5,4103642,0.9503753007694141,0.12184298727813002
+2021,"White, Not Hispanic/Latino",75-79,Male,50,27,3453656,1.4477411763070787,0.7817802352058225
+2021,"White, Not Hispanic/Latino",80+,Female,62,2,5642518,1.098800216499088,0.03544516827416413
+2021,"White, Not Hispanic/Latino",80+,Male,48,42,3835593,1.2514362185977501,1.0950066912730312
+2021,"White, Not Hispanic/Latino",Unknown,Female,12,4,NA,NA,NA
+2021,"White, Not Hispanic/Latino",Unknown,Male,18,45,NA,NA,NA
+2021,"White, Not Hispanic/Latino",Unknown,Unknown,2,2,NA,NA,NA
+2022,"American Indian or Alaska Native, Hispanic/Latino",15-19,Female,1,0,129262,0.7736225650229765,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",15-19,Male,1,0,132780,0.7531254707034192,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",35-39,Male,1,0,115447,0.8661983420963733,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",45-49,Male,1,0,98500,1.015228426395939,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,Female,2,0,122228,1.6362862846483621,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,Male,4,0,129834,3.080857094443674,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,Female,4,0,161570,2.475707123847249,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,Male,1,3,172725,0.5789549862498191,1.7368649587494573
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,Female,8,6,162671,4.917901777206755,3.688426332905066
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,Male,15,29,174181,8.611731474730309,16.649347517811933
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,Female,7,6,146232,4.786913944964167,4.103069095683571
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,Male,14,33,150626,9.294544102611766,21.908568241870594
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,Female,3,3,145271,2.065105905514521,2.065105905514521
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,Male,24,35,154429,15.541122457569497,22.664136917288854
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,Female,9,12,159112,5.656392981044799,7.541857308059732
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,Male,31,16,159823,19.396457330922335,10.011074751443784
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,Female,8,12,159687,5.009800422075686,7.514700633113528
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,Male,30,13,152561,19.66426544136444,8.521181691257922
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,Female,4,2,158413,2.525045292999943,1.2625226464999715
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,Male,14,14,155239,9.018352347026198,9.018352347026198
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,Female,4,1,135529,2.951397855809458,0.7378494639523645
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,Male,6,11,135130,4.440168726411604,8.140309331754606
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,Female,4,0,144205,2.773828924101106,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,Male,4,0,148213,2.6988185921612815,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,Female,3,2,145079,2.0678389015639755,1.378559267709317
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,Male,9,2,144470,6.229667058904964,1.3843704575344362
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,Female,4,0,146147,2.7369703107145544,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,Male,8,4,134453,5.950034584576023,2.9750172922880114
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,Male,4,2,136119,2.93860519104607,1.469302595523035
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,Female,2,0,129601,1.5431979691514726,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,Male,4,1,105238,3.80090841711169,0.9502271042779225
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,Male,1,0,82844,1.2070880208584809,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,Female,1,0,NA,NA,NA
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,Male,2,0,NA,NA,NA
+2022,"Asian, Hispanic/Latino",15-19,Male,1,2,48531,2.060538624796522,4.121077249593044
+2022,"Asian, Hispanic/Latino",20-24,Female,1,0,34693,2.8824258495950192,0
+2022,"Asian, Hispanic/Latino",20-24,Male,1,0,38028,2.6296413169243715,0
+2022,"Asian, Hispanic/Latino",40-44,Female,1,0,18605,5.374899220639613,0
+2022,"Asian, Not Hispanic/Latino",0-4,Female,3,0,631446,0.4751000085518001,0
+2022,"Asian, Not Hispanic/Latino",0-4,Male,5,0,653208,0.7654529644462408,0
+2022,"Asian, Not Hispanic/Latino",10-14,Female,1,0,701252,0.14260208883539727,0
+2022,"Asian, Not Hispanic/Latino",10-14,Male,2,0,756587,0.26434501253656223,0
+2022,"Asian, Not Hispanic/Latino",15-19,Female,3,2,702296,0.4271703099547769,0.28478020663651793
+2022,"Asian, Not Hispanic/Latino",15-19,Male,7,12,738529,0.9478300784397092,1.6248515630395015
+2022,"Asian, Not Hispanic/Latino",20-24,Female,4,2,736830,0.5428660613710082,0.2714330306855041
+2022,"Asian, Not Hispanic/Latino",20-24,Male,14,25,754366,1.8558630691202944,3.3140411948576687
+2022,"Asian, Not Hispanic/Latino",25-29,Female,4,3,815379,0.49056941618560207,0.36792706213920157
+2022,"Asian, Not Hispanic/Latino",25-29,Male,10,17,818685,1.2214710175464312,2.076500729828933
+2022,"Asian, Not Hispanic/Latino",30-34,Female,12,3,974577,1.2313034270252634,0.30782585675631585
+2022,"Asian, Not Hispanic/Latino",30-34,Male,9,12,929272,0.9685000731755612,1.291333430900748
+2022,"Asian, Not Hispanic/Latino",35-39,Female,4,1,956532,0.41817733227952647,0.10454433306988162
+2022,"Asian, Not Hispanic/Latino",35-39,Male,15,8,904157,1.6590039119312243,0.8848020863633196
+2022,"Asian, Not Hispanic/Latino",40-44,Female,8,1,931302,0.8590124363525473,0.10737655454406841
+2022,"Asian, Not Hispanic/Latino",40-44,Male,11,13,822991,1.3365881279382155,1.5796041511997092
+2022,"Asian, Not Hispanic/Latino",45-49,Female,7,1,822406,0.8511611053421303,0.12159444362030432
+2022,"Asian, Not Hispanic/Latino",45-49,Male,6,9,738139,0.8128550313694304,1.2192825470541455
+2022,"Asian, Not Hispanic/Latino",5-9,Male,1,0,727784,0.13740340540599957,0
+2022,"Asian, Not Hispanic/Latino",50-54,Female,5,0,768653,0.6504885819739206,0
+2022,"Asian, Not Hispanic/Latino",50-54,Male,13,6,688173,1.8890598730261141,0.8718737875505141
+2022,"Asian, Not Hispanic/Latino",55-59,Female,6,1,669252,0.896523282709652,0.14942054711827535
+2022,"Asian, Not Hispanic/Latino",55-59,Male,4,9,600409,0.6662125317908293,1.4989781965293658
+2022,"Asian, Not Hispanic/Latino",60-64,Female,3,1,608782,0.4927872374675992,0.16426241248919976
+2022,"Asian, Not Hispanic/Latino",60-64,Male,5,6,502209,0.9956014328695821,1.1947217194434987
+2022,"Asian, Not Hispanic/Latino",65-69,Female,2,0,552404,0.3620538591320845,0
+2022,"Asian, Not Hispanic/Latino",65-69,Male,7,2,444445,1.574998031252461,0.4499994375007031
+2022,"Asian, Not Hispanic/Latino",70-74,Female,2,0,424759,0.47085523791138034,0
+2022,"Asian, Not Hispanic/Latino",70-74,Male,1,0,344472,0.29029935669662554,0
+2022,"Asian, Not Hispanic/Latino",75-79,Female,2,0,298619,0.6697497480066573,0
+2022,"Asian, Not Hispanic/Latino",75-79,Male,3,1,223782,1.3405903960104029,0.446863465336801
+2022,"Asian, Not Hispanic/Latino",Unknown,Female,1,0,NA,NA,NA
+2022,"Asian, Not Hispanic/Latino",Unknown,Male,2,3,NA,NA,NA
+2022,"Black or African American, Hispanic/Latino",0-4,Female,1,0,174848,0.5719253294289898,0
+2022,"Black or African American, Hispanic/Latino",0-4,Male,2,0,196517,1.0177236574952804,0
+2022,"Black or African American, Hispanic/Latino",10-14,Female,2,0,166779,1.199191744764029,0
+2022,"Black or African American, Hispanic/Latino",15-19,Female,2,1,132453,1.5099695741130816,0.7549847870565408
+2022,"Black or African American, Hispanic/Latino",15-19,Male,13,12,150275,8.650806854100814,7.9853601730161365
+2022,"Black or African American, Hispanic/Latino",20-24,Female,2,4,122545,1.6320535313558284,3.264107062711657
+2022,"Black or African American, Hispanic/Latino",20-24,Male,8,14,132822,6.023098583066059,10.540422520365603
+2022,"Black or African American, Hispanic/Latino",25-29,Female,2,2,109989,1.818363654547273,1.818363654547273
+2022,"Black or African American, Hispanic/Latino",25-29,Male,14,11,108038,12.95840352468576,10.181602769395953
+2022,"Black or African American, Hispanic/Latino",30-34,Female,3,2,110980,2.7031897639214275,1.8021265092809515
+2022,"Black or African American, Hispanic/Latino",30-34,Male,11,8,103526,10.625350153584607,7.727527384425168
+2022,"Black or African American, Hispanic/Latino",35-39,Female,4,0,99440,4.022526146419952,0
+2022,"Black or African American, Hispanic/Latino",35-39,Male,15,5,84315,17.790428749332857,5.930142916444286
+2022,"Black or African American, Hispanic/Latino",40-44,Male,4,3,79082,5.058041020712678,3.7935307655345083
+2022,"Black or African American, Hispanic/Latino",45-49,Male,3,2,57444,5.222477543346564,3.4816516955643757
+2022,"Black or African American, Hispanic/Latino",5-9,Female,1,0,175154,0.5709261564109298,0
+2022,"Black or African American, Hispanic/Latino",50-54,Male,1,0,50342,1.9864129355210363,0
+2022,"Black or African American, Hispanic/Latino",55-59,Female,1,0,47073,2.1243600365389925,0
+2022,"Black or African American, Hispanic/Latino",55-59,Male,1,0,43900,2.277904328018223,0
+2022,"Black or African American, Hispanic/Latino",65-69,Male,1,1,23349,4.282838665467472,4.282838665467472
+2022,"Black or African American, Hispanic/Latino",Unknown,Male,2,3,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",0-4,Female,61,0,1502912,4.05878720776732,0
+2022,"Black or African American, Not Hispanic/Latino",0-4,Male,89,1,1563492,5.692386017964915,0.06395939346027994
+2022,"Black or African American, Not Hispanic/Latino",0-4,Unknown,3,0,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",10-14,Female,31,7,1692000,1.8321513002364065,0.4137115839243499
+2022,"Black or African American, Not Hispanic/Latino",10-14,Male,91,114,1746346,5.210880318104202,6.527916002899769
+2022,"Black or African American, Not Hispanic/Latino",15-19,Female,160,111,1635453,9.783222140899188,6.787110360248812
+2022,"Black or African American, Not Hispanic/Latino",15-19,Male,1091,1700,1701200,64.13120150482013,99.9294615565483
+2022,"Black or African American, Not Hispanic/Latino",20-24,Female,229,210,1720983,13.306348755333435,12.202328552925858
+2022,"Black or African American, Not Hispanic/Latino",20-24,Male,1386,1651,1743639,79.48893090829007,94.68703097372794
+2022,"Black or African American, Not Hispanic/Latino",20-24,Unknown,1,2,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",25-29,Female,223,172,1666037,13.385056874487182,10.32390036955962
+2022,"Black or African American, Not Hispanic/Latino",25-29,Male,1237,1217,1647525,75.082320450372535,73.86837832506335
+2022,"Black or African American, Not Hispanic/Latino",25-29,Unknown,1,2,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",30-34,Female,197,125,1745464,11.28639719868184,7.161419542310813
+2022,"Black or African American, Not Hispanic/Latino",30-34,Male,1159,901,1695760,68.34693588715385,53.132518752653674
+2022,"Black or African American, Not Hispanic/Latino",30-34,Unknown,1,0,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",35-39,Female,139,98,1553500,8.947537817830705,6.308336015448986
+2022,"Black or African American, Not Hispanic/Latino",35-39,Male,744,539,1452691,51.215296301828815,37.103554713287274
+2022,"Black or African American, Not Hispanic/Latino",35-39,Unknown,4,1,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",40-44,Female,107,72,1533811,6.976087666602991,4.694189831732853
+2022,"Black or African American, Not Hispanic/Latino",40-44,Male,610,431,1399433,43.5890821496992,30.79818755167271
+2022,"Black or African American, Not Hispanic/Latino",40-44,Unknown,1,1,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",45-49,Female,68,36,1335182,5.092938640574843,2.696261633245505
+2022,"Black or African American, Not Hispanic/Latino",45-49,Male,353,216,1213011,29.101137582429182,17.80692837905015
+2022,"Black or African American, Not Hispanic/Latino",5-9,Female,22,0,1561283,1.4090975178747223,0
+2022,"Black or African American, Not Hispanic/Latino",5-9,Male,33,3,1622904,2.033391993611452,0.1848538176010411
+2022,"Black or African American, Not Hispanic/Latino",50-54,Female,63,24,1377544,4.5733566405138415,1.7422311011481302
+2022,"Black or African American, Not Hispanic/Latino",50-54,Male,284,180,1253739,22.652242611899286,14.357055176555887
+2022,"Black or African American, Not Hispanic/Latino",50-54,Unknown,1,0,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",55-59,Female,37,14,1328095,2.7859452825287345,1.0541414582541158
+2022,"Black or African American, Not Hispanic/Latino",55-59,Male,212,115,1159083,18.29032088297387,9.921636328028278
+2022,"Black or African American, Not Hispanic/Latino",60-64,Female,53,14,1392581,3.80588274577924,1.0053275177530068
+2022,"Black or African American, Not Hispanic/Latino",60-64,Male,146,85,1177988,12.394014200484216,7.215693198912043
+2022,"Black or African American, Not Hispanic/Latino",65-69,Female,26,6,1151272,2.2583716098367717,0.5211626791931012
+2022,"Black or African American, Not Hispanic/Latino",65-69,Male,87,39,902869,9.63594940129742,4.319563524719533
+2022,"Black or African American, Not Hispanic/Latino",70-74,Female,12,2,880207,1.363315674608359,0.2272192791013932
+2022,"Black or African American, Not Hispanic/Latino",70-74,Male,34,12,636445,5.3421741077390825,1.8854732144961464
+2022,"Black or African American, Not Hispanic/Latino",75-79,Female,5,0,569399,0.8781188586562322,0
+2022,"Black or African American, Not Hispanic/Latino",75-79,Male,14,3,368755,3.796558690729617,0.8135482908706322
+2022,"Black or African American, Not Hispanic/Latino",80+,Female,18,0,704720,2.5542059257577474,0
+2022,"Black or African American, Not Hispanic/Latino",80+,Male,11,11,366760,2.999236557967063,2.999236557967063
+2022,"Black or African American, Not Hispanic/Latino",Unknown,Female,15,14,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",Unknown,Male,51,478,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",Unknown,Unknown,1,6,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,Male,1,0,9231,10.833062506770663,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,Male,1,3,8782,11.386927806877704,34.160783420633116
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,Male,1,1,7297,13.704262025489927,13.704262025489927
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,Female,1,0,6573,15.213753232922562,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,Male,1,0,3682,27.159152634437802,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,Male,2,0,27170,7.361059992638941,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,Male,2,0,30557,6.5451451385934485,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,Male,1,5,33361,2.997512064986062,14.987560324930307
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,Female,2,0,29905,6.687844841999666,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,Male,4,2,30373,13.169591413426398,6.584795706713199
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,Male,5,4,39824,12.555243069505826,10.04419445560466
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,Male,4,3,36479,10.965212862194688,8.223909646646016
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,Female,1,0,30377,3.2919643151068243,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,Male,3,2,32132,9.33648699116146,6.224324660774307
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,Female,1,0,29468,3.3935116058096915,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,Male,3,2,25456,11.785040854808297,7.856693903205532
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,Male,1,0,26500,3.7735849056603774,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,Female,1,0,23204,4.309601792794346,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,Male,1,0,20549,4.8664168572679936,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,Male,1,0,21623,4.624705175045091,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,Female,1,0,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",0-4,Female,1,0,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",0-4,Male,2,0,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",15-19,Male,4,6,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",20-24,Female,1,0,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",20-24,Male,7,8,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",25-29,Female,3,0,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",25-29,Male,5,7,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",30-34,Female,1,0,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",30-34,Male,11,5,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",35-39,Female,3,0,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",35-39,Male,12,2,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",40-44,Female,1,0,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",40-44,Male,3,5,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",45-49,Male,2,3,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",55-59,Female,3,0,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",55-59,Male,1,1,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",65-69,Male,1,1,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",Unknown,Female,1,0,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",Unknown,Unknown,1,0,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",0-4,Female,1,0,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",0-4,Male,3,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",15-19,Female,1,2,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",15-19,Male,5,5,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",20-24,Female,1,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",20-24,Male,2,13,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",25-29,Female,2,0,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",25-29,Male,9,5,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",30-34,Male,1,2,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",35-39,Female,2,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",35-39,Male,4,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",40-44,Female,2,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",40-44,Male,1,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",45-49,Female,2,0,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",45-49,Male,2,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",50-54,Male,1,0,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",55-59,Male,3,2,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",60-64,Male,1,0,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",65-69,Male,1,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",70-74,Male,2,0,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",75-79,Female,1,0,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",Unknown,Male,2,6,NA,NA,NA
+2022,"Unknown, Unknown",0-4,Female,5,0,NA,NA,NA
+2022,"Unknown, Unknown",0-4,Male,7,0,NA,NA,NA
+2022,"Unknown, Unknown",0-4,Unknown,3,11,NA,NA,NA
+2022,"Unknown, Unknown",10-14,Female,4,0,NA,NA,NA
+2022,"Unknown, Unknown",10-14,Male,2,2,NA,NA,NA
+2022,"Unknown, Unknown",15-19,Female,4,5,NA,NA,NA
+2022,"Unknown, Unknown",15-19,Male,11,26,NA,NA,NA
+2022,"Unknown, Unknown",15-19,Unknown,1,26,NA,NA,NA
+2022,"Unknown, Unknown",20-24,Female,11,3,NA,NA,NA
+2022,"Unknown, Unknown",20-24,Male,23,24,NA,NA,NA
+2022,"Unknown, Unknown",25-29,Female,9,7,NA,NA,NA
+2022,"Unknown, Unknown",25-29,Male,21,25,NA,NA,NA
+2022,"Unknown, Unknown",25-29,Unknown,1,39,NA,NA,NA
+2022,"Unknown, Unknown",30-34,Female,6,5,NA,NA,NA
+2022,"Unknown, Unknown",30-34,Male,19,26,NA,NA,NA
+2022,"Unknown, Unknown",30-34,Unknown,2,29,NA,NA,NA
+2022,"Unknown, Unknown",35-39,Female,5,0,NA,NA,NA
+2022,"Unknown, Unknown",35-39,Male,13,21,NA,NA,NA
+2022,"Unknown, Unknown",40-44,Female,4,2,NA,NA,NA
+2022,"Unknown, Unknown",40-44,Male,9,10,NA,NA,NA
+2022,"Unknown, Unknown",45-49,Female,6,3,NA,NA,NA
+2022,"Unknown, Unknown",45-49,Male,12,6,NA,NA,NA
+2022,"Unknown, Unknown",45-49,Unknown,2,7,NA,NA,NA
+2022,"Unknown, Unknown",5-9,Female,1,0,NA,NA,NA
+2022,"Unknown, Unknown",50-54,Female,4,0,NA,NA,NA
+2022,"Unknown, Unknown",50-54,Male,5,8,NA,NA,NA
+2022,"Unknown, Unknown",50-54,Unknown,3,78,NA,NA,NA
+2022,"Unknown, Unknown",55-59,Female,5,1,NA,NA,NA
+2022,"Unknown, Unknown",55-59,Male,7,9,NA,NA,NA
+2022,"Unknown, Unknown",55-59,Unknown,7,40,NA,NA,NA
+2022,"Unknown, Unknown",60-64,Female,3,0,NA,NA,NA
+2022,"Unknown, Unknown",60-64,Male,7,2,NA,NA,NA
+2022,"Unknown, Unknown",65-69,Female,2,0,NA,NA,NA
+2022,"Unknown, Unknown",65-69,Male,3,0,NA,NA,NA
+2022,"Unknown, Unknown",70-74,Female,2,0,NA,NA,NA
+2022,"Unknown, Unknown",70-74,Male,2,1,NA,NA,NA
+2022,"Unknown, Unknown",75-79,Female,2,1,NA,NA,NA
+2022,"Unknown, Unknown",75-79,Male,1,0,NA,NA,NA
+2022,"Unknown, Unknown",80+,Female,1,0,NA,NA,NA
+2022,"Unknown, Unknown",80+,Unknown,1,13,NA,NA,NA
+2022,"Unknown, Unknown",Unknown,Female,7,9,NA,NA,NA
+2022,"Unknown, Unknown",Unknown,Male,10,153,NA,NA,NA
+2022,"Unknown, Unknown",Unknown,Unknown,35,1093,NA,NA,NA
+2022,"White, Hispanic/Latino",0-4,Female,15,0,2023718,0.7412099907200509,0
+2022,"White, Hispanic/Latino",0-4,Male,16,0,2068989,0.7733245560996217,0
+2022,"White, Hispanic/Latino",10-14,Female,22,6,2339913,0.9402058965440169,0.25641978996655
+2022,"White, Hispanic/Latino",10-14,Male,35,27,2476591,1.4132329480321943,1.0902082741962642
+2022,"White, Hispanic/Latino",15-19,Female,48,28,2340670,2.050694886506855,1.1962386837956653
+2022,"White, Hispanic/Latino",15-19,Male,272,451,2442556,11.135875697425156,18.46426448359833
+2022,"White, Hispanic/Latino",15-19,Unknown,1,0,NA,NA,NA
+2022,"White, Hispanic/Latino",20-24,Female,67,43,2297930,2.9156675790820437,1.8712493417989233
+2022,"White, Hispanic/Latino",20-24,Male,232,322,2415831,9.603320762089734,13.328746919796957
+2022,"White, Hispanic/Latino",25-29,Female,41,33,2123262,1.9309910882406411,1.5542123393156377
+2022,"White, Hispanic/Latino",25-29,Male,252,211,2232161,11.289508238877035,9.452723168266088
+2022,"White, Hispanic/Latino",30-34,Female,58,22,2073603,2.7970638545565376,1.0609552551766177
+2022,"White, Hispanic/Latino",30-34,Male,220,198,2249378,9.78048153756283,8.802433383806544
+2022,"White, Hispanic/Latino",35-39,Female,43,20,1972761,2.179686236700746,1.0138075519538354
+2022,"White, Hispanic/Latino",35-39,Male,196,135,2205183,8.88815123280018,6.121940900142981
+2022,"White, Hispanic/Latino",40-44,Female,39,22,1969487,1.9802110905022474,1.1170421536166524
+2022,"White, Hispanic/Latino",40-44,Male,131,101,2121888,6.173747153478412,4.759911927490989
+2022,"White, Hispanic/Latino",45-49,Female,29,7,1784179,1.625397451713085,0.3923373159307446
+2022,"White, Hispanic/Latino",45-49,Male,98,76,1886040,5.196072193590804,4.029607007274501
+2022,"White, Hispanic/Latino",5-9,Female,8,0,2126866,0.3761402928064109,0
+2022,"White, Hispanic/Latino",5-9,Male,9,0,2220045,0.4053971878948399,0
+2022,"White, Hispanic/Latino",50-54,Female,9,4,1613702,0.5577237928688197,0.24787724127503097
+2022,"White, Hispanic/Latino",50-54,Male,85,31,1689705,5.030463897544246,1.8346397743984897
+2022,"White, Hispanic/Latino",55-59,Female,11,1,1424739,0.7720712355034852,0.07018829413668047
+2022,"White, Hispanic/Latino",55-59,Male,43,25,1423115,3.0215407749900747,1.7567097529012061
+2022,"White, Hispanic/Latino",60-64,Female,9,0,1190622,0.7559074164596321,0
+2022,"White, Hispanic/Latino",60-64,Male,24,8,1144574,2.0968500070768687,0.6989500023589562
+2022,"White, Hispanic/Latino",65-69,Female,8,0,932603,0.8578140966735042,0
+2022,"White, Hispanic/Latino",65-69,Male,12,5,818588,1.4659389094391808,0.6108078789329919
+2022,"White, Hispanic/Latino",70-74,Female,3,2,688242,0.43589318873303284,0.29059545915535523
+2022,"White, Hispanic/Latino",70-74,Male,14,5,597205,2.3442536482447403,0.8372334458016929
+2022,"White, Hispanic/Latino",75-79,Female,2,0,481038,0.4157675692980596,0
+2022,"White, Hispanic/Latino",75-79,Male,9,1,348613,2.58165931849931,0.28685103538881224
+2022,"White, Hispanic/Latino",80+,Female,1,0,626048,0.15973216111224697,0
+2022,"White, Hispanic/Latino",80+,Male,5,1,385493,1.297040413185194,0.2594080826370388
+2022,"White, Hispanic/Latino",Unknown,Female,1,3,NA,NA,NA
+2022,"White, Hispanic/Latino",Unknown,Male,12,53,NA,NA,NA
+2022,"White, Not Hispanic/Latino",0-4,Female,55,0,4285451,1.2834121776214453,0
+2022,"White, Not Hispanic/Latino",0-4,Male,69,0,4518150,1.5271737326117991,0
+2022,"White, Not Hispanic/Latino",0-4,Unknown,4,0,NA,NA,NA
+2022,"White, Not Hispanic/Latino",10-14,Female,23,7,5063240,0.4542545879713385,0.13825139633910302
+2022,"White, Not Hispanic/Latino",10-14,Male,33,17,5372233,0.614269708703997,0.3164419711505439
+2022,"White, Not Hispanic/Latino",15-19,Female,64,60,5377885,1.1900589172137375,1.115680234887879
+2022,"White, Not Hispanic/Latino",15-19,Male,168,363,5703971,2.9453165172123073,6.363987474690877
+2022,"White, Not Hispanic/Latino",15-19,Unknown,1,1,NA,NA,NA
+2022,"White, Not Hispanic/Latino",20-24,Female,123,93,5754758,2.137361814345625,1.616054054749131
+2022,"White, Not Hispanic/Latino",20-24,Male,221,458,6114113,3.6145880849765124,7.490865805064447
+2022,"White, Not Hispanic/Latino",20-24,Unknown,1,1,NA,NA,NA
+2022,"White, Not Hispanic/Latino",25-29,Female,136,91,5735121,2.3713536296793043,1.5867145610354167
+2022,"White, Not Hispanic/Latino",25-29,Male,213,398,6066719,3.5109587241472697,6.560382968124946
+2022,"White, Not Hispanic/Latino",30-34,Female,154,114,6206271,2.48136119096314,1.836851790712974
+2022,"White, Not Hispanic/Latino",30-34,Male,355,424,6421469,5.52833004410673,6.602850531552827
+2022,"White, Not Hispanic/Latino",30-34,Unknown,1,2,NA,NA,NA
+2022,"White, Not Hispanic/Latino",35-39,Female,150,91,6155037,2.4370284045408663,1.4784638987547922
+2022,"White, Not Hispanic/Latino",35-39,Male,278,342,6388330,4.3516850256639845,5.353511794162167
+2022,"White, Not Hispanic/Latino",40-44,Female,124,65,5999170,2.06695259510899,1.0834832151780998
+2022,"White, Not Hispanic/Latino",40-44,Male,289,302,6231523,4.63771055647231,4.846327294306705
+2022,"White, Not Hispanic/Latino",40-44,Unknown,1,0,NA,NA,NA
+2022,"White, Not Hispanic/Latino",45-49,Female,107,56,5498440,1.9460065036628573,1.0184706935057943
+2022,"White, Not Hispanic/Latino",45-49,Male,227,184,5672885,4.0014913046888845,3.243499559747818
+2022,"White, Not Hispanic/Latino",5-9,Female,26,0,4767372,0.5453738453806416,0
+2022,"White, Not Hispanic/Latino",5-9,Male,25,0,5002581,0.49974203316248156,0
+2022,"White, Not Hispanic/Latino",5-9,Unknown,2,0,NA,NA,NA
+2022,"White, Not Hispanic/Latino",50-54,Female,87,58,6283201,1.3846445466251995,0.9230963644167997
+2022,"White, Not Hispanic/Latino",50-54,Male,215,195,6494585,3.310450167331708,3.0025013145566652
+2022,"White, Not Hispanic/Latino",55-59,Female,109,21,6670074,1.634164778381769,0.3148390857432766
+2022,"White, Not Hispanic/Latino",55-59,Male,195,155,6693044,2.9134725544909013,2.315837158697896
+2022,"White, Not Hispanic/Latino",60-64,Female,73,13,7625462,0.95731904506245,0.17048147377824452
+2022,"White, Not Hispanic/Latino",60-64,Male,179,96,7419817,2.412458420470478,1.2938324489674071
+2022,"White, Not Hispanic/Latino",60-64,Unknown,1,0,NA,NA,NA
+2022,"White, Not Hispanic/Latino",65-69,Female,65,11,6905299,0.9413060897145801,0.15929795364400584
+2022,"White, Not Hispanic/Latino",65-69,Male,121,62,6458330,1.8735493540899892,0.9600004954841267
+2022,"White, Not Hispanic/Latino",70-74,Female,58,4,6028899,0.962033034555729,0.06634710583142958
+2022,"White, Not Hispanic/Latino",70-74,Male,61,47,5428056,1.1237909115160196,0.8658716859221791
+2022,"White, Not Hispanic/Latino",70-74,Unknown,2,0,NA,NA,NA
+2022,"White, Not Hispanic/Latino",75-79,Female,51,5,4630546,1.101381996853071,0.10797862714245794
+2022,"White, Not Hispanic/Latino",75-79,Male,42,44,3863135,1.0871999037051514,1.1389713276911109
+2022,"White, Not Hispanic/Latino",75-79,Unknown,1,0,NA,NA,NA
+2022,"White, Not Hispanic/Latino",80+,Female,67,4,6017854,1.1133536971817528,0.06646887744368674
+2022,"White, Not Hispanic/Latino",80+,Male,59,47,3987355,1.4796776309107165,1.1787262483526046
+2022,"White, Not Hispanic/Latino",Unknown,Female,8,7,NA,NA,NA
+2022,"White, Not Hispanic/Latino",Unknown,Male,23,39,NA,NA,NA
+2022,"White, Not Hispanic/Latino",Unknown,Unknown,1,4,NA,NA,NA
+2023,"American Indian or Alaska Native, Hispanic/Latino",15-19,Male,1,3,143883,0.6950091393701827,2.085027418110548
+2023,"American Indian or Alaska Native, Hispanic/Latino",20-24,Male,1,0,139003,0.7194089336201377,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",30-34,Male,2,1,136172,1.4687307229092619,0.7343653614546309
+2023,"American Indian or Alaska Native, Hispanic/Latino",35-39,Male,2,0,130101,1.5372672000983851,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",40-44,Male,1,0,122802,0.814318985032817,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",60-64,Male,1,0,53587,1.8661242465523353,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",65-69,Male,1,0,38550,2.594033722438392,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,Female,1,0,115055,0.8691495371778715,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,Male,1,0,129314,0.7733114743956572,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,Female,1,1,156536,0.638830684315429,0.638830684315429
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,Male,3,9,165394,1.8138505628982913,5.441551688694874
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,Female,3,4,166110,1.8060321473722232,2.4080428631629642
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,Male,13,40,176399,7.369656290568541,22.675865509441664
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,Female,4,4,134980,2.9634019854793303,2.9634019854793303
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,Male,20,27,151482,13.202888792067705,17.823899869291402
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,Female,10,6,148026,6.755569967438153,4.053341980462892
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,Male,16,23,147159,10.872593589247005,15.62935328454257
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,Female,7,5,158318,4.421480817089655,3.158200583635468
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,Male,34,28,169001,20.118224152519808,16.567949302075135
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,Female,6,6,166567,3.6021540881447107,3.6021540881447107
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,Male,23,17,149786,15.355240142603447,11.349525322793852
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,Female,7,2,162589,4.30533430920911,1.2300955169168886
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,Male,18,11,157391,11.436486203150118,6.988963790813959
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,Female,3,1,139751,2.1466751579595136,0.7155583859865046
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,Male,5,6,143085,3.4944263899080963,4.193311667889716
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,Male,1,1,150944,0.6624973500106,0.6624973500106
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,Female,1,2,143733,0.6957344520743323,1.3914689041486645
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,Male,7,3,140194,4.993081016305976,2.139891864131133
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,Female,1,2,145302,0.6882217725839974,1.3764435451679948
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,Male,6,3,126063,4.759524999405059,2.3797624997025295
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,Female,2,0,152321,1.3130165899646142,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,Male,5,1,137871,3.6265784682783178,0.7253156936556636
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,Male,2,0,111318,1.7966546290806518,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,Male,3,2,81864,3.664614482556435,2.44307632170429
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,Male,1,1,54789,1.8251838872766433,1.8251838872766433
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",80+,Female,1,0,67375,1.4842300556586272,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",80+,Male,1,0,48016,2.0826391202932357,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,Male,3,3,NA,NA,NA
+2023,"Asian, Hispanic/Latino",25-29,Male,1,1,30240,3.306878306878307,3.306878306878307
+2023,"Asian, Hispanic/Latino",45-49,Male,1,0,17256,5.795085767269355,0
+2023,"Asian, Hispanic/Latino",70-74,Male,1,0,4331,23.089355806972986,0
+2023,"Asian, Hispanic/Latino",75-79,Male,1,0,2571,38.895371450797356,0
+2023,"Asian, Not Hispanic/Latino",0-4,Female,2,0,627736,0.31860527355448787,0
+2023,"Asian, Not Hispanic/Latino",0-4,Male,6,0,656781,0.9135465246406337,0
+2023,"Asian, Not Hispanic/Latino",10-14,Female,2,0,723385,0.2764779474277183,0
+2023,"Asian, Not Hispanic/Latino",10-14,Male,2,0,779616,0.2565365513278332,0
+2023,"Asian, Not Hispanic/Latino",15-19,Female,4,0,742108,0.5390051043783385,0
+2023,"Asian, Not Hispanic/Latino",15-19,Male,13,18,758196,1.714596225778031,2.374056312615735
+2023,"Asian, Not Hispanic/Latino",20-24,Female,4,2,711880,0.5618924537843457,0.28094622689217286
+2023,"Asian, Not Hispanic/Latino",20-24,Male,15,27,730290,2.0539785564638704,3.697161401634967
+2023,"Asian, Not Hispanic/Latino",25-29,Female,8,3,838567,0.9540084453597626,0.35775316700991094
+2023,"Asian, Not Hispanic/Latino",25-29,Male,13,19,824837,1.5760689687780738,2.3034854159064153
+2023,"Asian, Not Hispanic/Latino",30-34,Female,10,4,989985,1.01011631489366,0.404046525957464
+2023,"Asian, Not Hispanic/Latino",30-34,Male,14,14,942045,1.4861285819679528,1.4861285819679528
+2023,"Asian, Not Hispanic/Latino",35-39,Female,15,3,1008151,1.4878723524551383,0.29757447049102764
+2023,"Asian, Not Hispanic/Latino",35-39,Male,20,12,924900,2.1623959346956427,1.2974375608173856
+2023,"Asian, Not Hispanic/Latino",40-44,Female,5,4,942252,0.5306436070180801,0.42451488561446404
+2023,"Asian, Not Hispanic/Latino",40-44,Male,15,9,846784,1.771408056836218,1.0628448341017307
+2023,"Asian, Not Hispanic/Latino",45-49,Female,7,1,844856,0.8285435624532466,0.1183633660647495
+2023,"Asian, Not Hispanic/Latino",45-49,Male,10,12,758240,1.3188436378982908,1.5826123654779491
+2023,"Asian, Not Hispanic/Latino",5-9,Female,2,0,677514,0.29519685202077006,0
+2023,"Asian, Not Hispanic/Latino",5-9,Male,7,0,733156,0.9547763368232682,0
+2023,"Asian, Not Hispanic/Latino",50-54,Female,7,2,804605,0.8699921079287353,0.24856917369392434
+2023,"Asian, Not Hispanic/Latino",50-54,Male,8,9,708276,1.1295031880227482,1.2706910865255916
+2023,"Asian, Not Hispanic/Latino",55-59,Female,11,0,691090,1.5916884920922023,0
+2023,"Asian, Not Hispanic/Latino",55-59,Male,5,5,581061,0.8604948533802819,0.8604948533802819
+2023,"Asian, Not Hispanic/Latino",60-64,Female,7,2,615514,1.1372608908976887,0.32493168311362536
+2023,"Asian, Not Hispanic/Latino",60-64,Male,6,6,543407,1.1041447754629587,1.1041447754629587
+2023,"Asian, Not Hispanic/Latino",65-69,Female,9,0,573090,1.5704339632518454,0
+2023,"Asian, Not Hispanic/Latino",65-69,Male,8,6,465506,1.7185600185604482,1.288920013920336
+2023,"Asian, Not Hispanic/Latino",70-74,Female,5,0,464944,1.075398327540521,0
+2023,"Asian, Not Hispanic/Latino",70-74,Male,3,3,352326,0.8514841368505305,0.8514841368505305
+2023,"Asian, Not Hispanic/Latino",75-79,Female,1,0,318725,0.3137500980469057,0
+2023,"Asian, Not Hispanic/Latino",75-79,Male,1,0,252204,0.396504417059206,0
+2023,"Asian, Not Hispanic/Latino",80+,Female,4,0,394458,1.0140496580117528,0
+2023,"Asian, Not Hispanic/Latino",80+,Male,2,2,267252,0.7483573556044482,0.7483573556044482
+2023,"Black or African American, Hispanic/Latino",0-4,Female,1,0,183577,0.5447305490339204,0
+2023,"Black or African American, Hispanic/Latino",0-4,Male,1,0,202366,0.4941541563306089,0
+2023,"Black or African American, Hispanic/Latino",15-19,Female,1,1,143035,0.699129583668333,0.699129583668333
+2023,"Black or African American, Hispanic/Latino",15-19,Male,11,23,156135,7.045185256348672,14.730841899638135
+2023,"Black or African American, Hispanic/Latino",20-24,Female,1,3,119785,0.8348290687481739,2.5044872062445216
+2023,"Black or African American, Hispanic/Latino",20-24,Male,16,6,132338,12.090253744200457,4.533845154075172
+2023,"Black or African American, Hispanic/Latino",25-29,Male,7,15,102074,6.857769853243725,14.695221114093695
+2023,"Black or African American, Hispanic/Latino",30-34,Female,1,0,121103,0.8257433754737703,0
+2023,"Black or African American, Hispanic/Latino",30-34,Male,10,6,117633,8.501015871396632,5.1006095228379795
+2023,"Black or African American, Hispanic/Latino",35-39,Female,2,0,98582,2.0287679292365746,0
+2023,"Black or African American, Hispanic/Latino",35-39,Male,9,0,87037,10.340429932097843,0
+2023,"Black or African American, Hispanic/Latino",40-44,Female,1,0,86624,1.1544144809752492,0
+2023,"Black or African American, Hispanic/Latino",40-44,Male,6,2,71508,8.39066957543212,2.7968898584773734
+2023,"Black or African American, Hispanic/Latino",45-49,Female,1,0,71856,1.3916722333556002,0
+2023,"Black or African American, Hispanic/Latino",45-49,Male,3,1,63544,4.721138109026816,1.5737127030089388
+2023,"Black or African American, Hispanic/Latino",5-9,Female,1,0,169945,0.5884256671276001,0
+2023,"Black or African American, Hispanic/Latino",50-54,Male,3,3,48229,6.220323871529578,6.220323871529578
+2023,"Black or African American, Hispanic/Latino",50-54,Unknown,1,0,NA,NA,NA
+2023,"Black or African American, Hispanic/Latino",55-59,Female,1,0,56154,1.7808170388574278,0
+2023,"Black or African American, Hispanic/Latino",55-59,Male,2,0,43812,4.56495937186159,0
+2023,"Black or African American, Hispanic/Latino",65-69,Male,1,0,28678,3.486993514192063,0
+2023,"Black or African American, Hispanic/Latino",Unknown,Male,2,1,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",0-4,Female,63,0,1483999,4.245285879572695,0
+2023,"Black or African American, Not Hispanic/Latino",0-4,Male,74,2,1552363,4.766926292368473,0.12883584573968848
+2023,"Black or African American, Not Hispanic/Latino",0-4,Unknown,1,0,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",10-14,Female,35,12,1653620,2.1165684982039403,0.7256806279556367
+2023,"Black or African American, Not Hispanic/Latino",10-14,Male,107,111,1739426,6.151454560297478,6.381415478439439
+2023,"Black or African American, Not Hispanic/Latino",15-19,Female,146,102,1668318,8.751329183045438,6.113942305963252
+2023,"Black or African American, Not Hispanic/Latino",15-19,Male,1068,1620,1775066,60.16677689730973,91.26421214760465
+2023,"Black or African American, Not Hispanic/Latino",15-19,Unknown,1,2,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",20-24,Female,188,179,1602622,11.730776190517789,11.169196479269598
+2023,"Black or African American, Not Hispanic/Latino",20-24,Male,1268,1586,1618806,78.32933656040316,97.97344462523614
+2023,"Black or African American, Not Hispanic/Latino",25-29,Female,175,168,1670641,10.475021264293167,10.05602041372144
+2023,"Black or African American, Not Hispanic/Latino",25-29,Male,1118,1060,1621183,68.96198640128844,65.3843520441554
+2023,"Black or African American, Not Hispanic/Latino",30-34,Female,171,116,1796295,9.519594498676444,6.457736618985189
+2023,"Black or African American, Not Hispanic/Latino",30-34,Male,1091,906,1731335,63.0149566663875,52.329560714708585
+2023,"Black or African American, Not Hispanic/Latino",35-39,Female,116,91,1556115,7.454461913161945,5.847896845670146
+2023,"Black or African American, Not Hispanic/Latino",35-39,Male,702,539,1469115,47.78386988084664,36.688754794553184
+2023,"Black or African American, Not Hispanic/Latino",35-39,Unknown,1,0,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",40-44,Female,121,67,1592260,7.5992614271538566,4.20785550098602
+2023,"Black or African American, Not Hispanic/Latino",40-44,Male,593,436,1460268,40.60898410428771,29.857533000791637
+2023,"Black or African American, Not Hispanic/Latino",40-44,Unknown,1,1,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",45-49,Female,82,31,1370110,5.984920918758347,2.262592054652546
+2023,"Black or African American, Not Hispanic/Latino",45-49,Male,398,256,1219555,32.63485451660647,20.991263206661447
+2023,"Black or African American, Not Hispanic/Latino",5-9,Female,19,0,1579834,1.202658000777297,0
+2023,"Black or African American, Not Hispanic/Latino",5-9,Male,27,0,1609426,1.6776167403782467,0
+2023,"Black or African American, Not Hispanic/Latino",50-54,Female,59,29,1378378,4.280393331872679,2.103922146174707
+2023,"Black or African American, Not Hispanic/Latino",50-54,Male,264,207,1234389,21.38709920454573,16.76943005810972
+2023,"Black or African American, Not Hispanic/Latino",55-59,Female,67,18,1303904,5.138415098044027,1.3804697278327238
+2023,"Black or African American, Not Hispanic/Latino",55-59,Male,217,154,1130291,19.198595759852996,13.624809894089221
+2023,"Black or African American, Not Hispanic/Latino",60-64,Female,34,11,1401016,2.4268102576986985,0.7851444951378143
+2023,"Black or African American, Not Hispanic/Latino",60-64,Male,156,85,1183708,13.178925883748356,7.180825000760323
+2023,"Black or African American, Not Hispanic/Latino",60-64,Unknown,1,0,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",65-69,Female,28,8,1172844,2.3873592736970988,0.6821026496277425
+2023,"Black or African American, Not Hispanic/Latino",65-69,Male,101,41,937891,10.768842008293076,4.3715101221783765
+2023,"Black or African American, Not Hispanic/Latino",70-74,Female,21,2,935644,2.244443399412597,0.21375651422977113
+2023,"Black or African American, Not Hispanic/Latino",70-74,Male,35,15,684272,5.114925059040849,2.1921107395889354
+2023,"Black or African American, Not Hispanic/Latino",75-79,Female,13,3,602405,2.1580166167279486,0.49800383462952663
+2023,"Black or African American, Not Hispanic/Latino",75-79,Male,12,6,409563,2.9299521685308485,1.4649760842654242
+2023,"Black or African American, Not Hispanic/Latino",80+,Female,9,0,701565,1.2828462081204164,0
+2023,"Black or African American, Not Hispanic/Latino",80+,Male,10,9,380971,2.624871709395203,2.3623845384556827
+2023,"Black or African American, Not Hispanic/Latino",Unknown,Female,12,22,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",Unknown,Male,52,498,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",Unknown,Unknown,1,36,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,Male,1,2,6876,14.543339150668993,29.086678301337987
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,Male,1,1,10852,9.214891264283082,9.214891264283082
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,Male,1,1,5575,17.937219730941703,17.937219730941703
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,Male,1,2,5230,19.120458891013385,38.24091778202677
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,Female,1,0,28833,3.468248187840322,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,Male,1,11,29962,3.3375609104866166,36.71317001535278
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,Female,1,0,28603,3.496136768870398,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,Male,5,7,30790,16.239038648911983,22.73465410847678
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,Female,2,0,32952,6.069434328720563,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,Male,6,3,31528,19.030702867292565,9.515351433646282
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,Female,1,1,35153,2.844707421841664,2.844707421841664
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,Male,4,3,35994,11.112963271656387,8.334722453742291
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,Female,1,0,30052,3.327565553041395,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,Male,1,0,38658,2.5867866935692483,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,Male,1,2,20172,4.9573666468372,9.9147332936744
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,Female,1,0,26820,3.7285607755406414,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,Female,1,0,20877,4.78996024332998,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,Male,3,1,19423,15.44560572517119,5.14853524172373
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,Female,1,0,21708,4.606596646397642,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,Male,2,0,24714,8.09257910496075,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,Female,1,0,14010,7.137758743754461,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,Male,1,0,16874,5.926277112717791,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,Female,1,0,13721,7.288098535092194,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,Male,1,0,9293,10.760787689658883,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,Female,1,0,7913,12.637432073802604,0
+2023,"Unknown, Hispanic/Latino",0-4,Male,2,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",10-14,Female,2,1,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",10-14,Male,3,2,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",15-19,Female,3,2,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",15-19,Male,10,6,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",20-24,Female,6,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",20-24,Male,19,16,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",25-29,Female,3,1,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",25-29,Male,25,8,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",30-34,Female,3,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",30-34,Male,21,4,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",35-39,Female,1,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",35-39,Male,20,7,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",40-44,Female,3,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",40-44,Male,11,3,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",45-49,Female,1,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",45-49,Male,10,3,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",5-9,Female,1,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",5-9,Male,4,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",50-54,Male,7,6,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",50-54,Unknown,1,1,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",55-59,Male,6,3,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",60-64,Male,6,2,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",65-69,Male,1,1,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",70-74,Female,1,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",75-79,Female,1,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",75-79,Male,1,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",80+,Male,1,0,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",Unknown,Female,1,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",0-4,Female,1,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",0-4,Unknown,1,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",10-14,Female,1,1,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",10-14,Male,1,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",15-19,Female,2,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",15-19,Male,3,4,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",20-24,Female,4,1,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",20-24,Male,6,11,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",25-29,Male,4,7,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",30-34,Female,3,1,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",30-34,Male,3,3,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",35-39,Male,5,3,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",40-44,Male,2,1,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",45-49,Female,1,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",50-54,Female,1,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",50-54,Male,4,3,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",55-59,Male,2,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",60-64,Female,1,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",60-64,Male,1,2,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",65-69,Male,1,1,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",70-74,Male,1,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",80+,Female,2,0,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",Unknown,Unknown,1,26,NA,NA,NA
+2023,"Unknown, Unknown",0-4,Female,9,0,NA,NA,NA
+2023,"Unknown, Unknown",0-4,Male,10,0,NA,NA,NA
+2023,"Unknown, Unknown",0-4,Unknown,3,5,NA,NA,NA
+2023,"Unknown, Unknown",10-14,Female,3,0,NA,NA,NA
+2023,"Unknown, Unknown",15-19,Female,8,3,NA,NA,NA
+2023,"Unknown, Unknown",15-19,Male,17,29,NA,NA,NA
+2023,"Unknown, Unknown",20-24,Female,7,5,NA,NA,NA
+2023,"Unknown, Unknown",20-24,Male,21,36,NA,NA,NA
+2023,"Unknown, Unknown",20-24,Unknown,3,31,NA,NA,NA
+2023,"Unknown, Unknown",25-29,Female,9,4,NA,NA,NA
+2023,"Unknown, Unknown",25-29,Male,15,21,NA,NA,NA
+2023,"Unknown, Unknown",25-29,Unknown,1,16,NA,NA,NA
+2023,"Unknown, Unknown",30-34,Female,5,4,NA,NA,NA
+2023,"Unknown, Unknown",30-34,Male,18,19,NA,NA,NA
+2023,"Unknown, Unknown",30-34,Unknown,3,18,NA,NA,NA
+2023,"Unknown, Unknown",35-39,Female,5,3,NA,NA,NA
+2023,"Unknown, Unknown",35-39,Male,6,17,NA,NA,NA
+2023,"Unknown, Unknown",35-39,Unknown,1,11,NA,NA,NA
+2023,"Unknown, Unknown",40-44,Female,6,2,NA,NA,NA
+2023,"Unknown, Unknown",40-44,Male,10,23,NA,NA,NA
+2023,"Unknown, Unknown",45-49,Female,2,1,NA,NA,NA
+2023,"Unknown, Unknown",45-49,Male,9,4,NA,NA,NA
+2023,"Unknown, Unknown",5-9,Female,4,0,NA,NA,NA
+2023,"Unknown, Unknown",5-9,Male,2,0,NA,NA,NA
+2023,"Unknown, Unknown",50-54,Female,7,2,NA,NA,NA
+2023,"Unknown, Unknown",50-54,Male,9,9,NA,NA,NA
+2023,"Unknown, Unknown",50-54,Unknown,1,52,NA,NA,NA
+2023,"Unknown, Unknown",55-59,Female,3,0,NA,NA,NA
+2023,"Unknown, Unknown",55-59,Male,6,4,NA,NA,NA
+2023,"Unknown, Unknown",55-59,Unknown,4,19,NA,NA,NA
+2023,"Unknown, Unknown",60-64,Female,4,1,NA,NA,NA
+2023,"Unknown, Unknown",60-64,Male,5,1,NA,NA,NA
+2023,"Unknown, Unknown",65-69,Female,1,0,NA,NA,NA
+2023,"Unknown, Unknown",65-69,Male,2,4,NA,NA,NA
+2023,"Unknown, Unknown",70-74,Male,1,0,NA,NA,NA
+2023,"Unknown, Unknown",70-74,Unknown,1,0,NA,NA,NA
+2023,"Unknown, Unknown",75-79,Female,1,0,NA,NA,NA
+2023,"Unknown, Unknown",80+,Female,2,0,NA,NA,NA
+2023,"Unknown, Unknown",80+,Unknown,2,11,NA,NA,NA
+2023,"Unknown, Unknown",Unknown,Female,7,7,NA,NA,NA
+2023,"Unknown, Unknown",Unknown,Male,19,191,NA,NA,NA
+2023,"Unknown, Unknown",Unknown,Unknown,36,1271,NA,NA,NA
+2023,"White, Hispanic/Latino",0-4,Female,17,0,2045743,0.8309939225015068,0
+2023,"White, Hispanic/Latino",0-4,Male,29,0,2122403,1.3663757542747537,0
+2023,"White, Hispanic/Latino",10-14,Female,13,3,2367467,0.5491100826326196,0.12671771137675836
+2023,"White, Hispanic/Latino",10-14,Male,14,33,2492230,0.561745906276708,1.3241153505093832
+2023,"White, Hispanic/Latino",15-19,Female,52,32,2424567,2.144712849758328,1.319823292158971
+2023,"White, Hispanic/Latino",15-19,Male,299,479,2540672,11.768539976825029,18.853279762204643
+2023,"White, Hispanic/Latino",15-19,Unknown,1,0,NA,NA,NA
+2023,"White, Hispanic/Latino",20-24,Female,73,56,2283745,3.1965039879671333,2.452112648303554
+2023,"White, Hispanic/Latino",20-24,Male,282,357,2392475,11.786957021494478,14.921786016572797
+2023,"White, Hispanic/Latino",25-29,Female,40,27,2169701,1.8435719944821891,1.2444110962754775
+2023,"White, Hispanic/Latino",25-29,Male,240,250,2250485,10.664367902918706,11.108716565540318
+2023,"White, Hispanic/Latino",30-34,Female,60,18,2139795,2.8040069258971068,0.8412020777691321
+2023,"White, Hispanic/Latino",30-34,Male,263,186,2280230,11.53392420939993,8.157071874328466
+2023,"White, Hispanic/Latino",35-39,Female,45,24,2037627,2.208451301440352,1.1778406941015211
+2023,"White, Hispanic/Latino",35-39,Male,193,156,2244384,8.599241484523148,6.950682236194876
+2023,"White, Hispanic/Latino",40-44,Female,34,10,1992763,1.7061737898586034,0.501815820546648
+2023,"White, Hispanic/Latino",40-44,Male,158,102,2130876,7.414790912282085,4.786763753498561
+2023,"White, Hispanic/Latino",45-49,Female,28,6,1860053,1.5053334501758822,0.3225714536091176
+2023,"White, Hispanic/Latino",45-49,Male,97,67,1913477,5.069305771639795,3.501479244328518
+2023,"White, Hispanic/Latino",5-9,Female,5,0,2132757,0.23443833498143485,0
+2023,"White, Hispanic/Latino",5-9,Male,5,0,2234022,0.22381158287608627,0
+2023,"White, Hispanic/Latino",50-54,Female,16,5,1653481,0.9676555098002335,0.302392346812573
+2023,"White, Hispanic/Latino",50-54,Male,81,59,1732357,4.675710606993824,3.405764516205378
+2023,"White, Hispanic/Latino",55-59,Female,19,1,1467864,1.294397846121984,0.06812620242747285
+2023,"White, Hispanic/Latino",55-59,Male,47,21,1444550,3.253608390156104,1.4537399190059188
+2023,"White, Hispanic/Latino",60-64,Female,9,1,1253884,0.7177697458457083,0.07975219398285648
+2023,"White, Hispanic/Latino",60-64,Male,26,11,1211305,2.1464453626460718,0.9081114995810303
+2023,"White, Hispanic/Latino",65-69,Female,7,1,979532,0.7146269851316751,0.10208956930452502
+2023,"White, Hispanic/Latino",65-69,Male,19,8,883929,2.1494939073160855,0.9050500662383518
+2023,"White, Hispanic/Latino",70-74,Female,7,0,738944,0.9472977654598995,0
+2023,"White, Hispanic/Latino",70-74,Male,4,2,625517,0.6394710295643444,0.3197355147821722
+2023,"White, Hispanic/Latino",75-79,Female,1,0,498379,0.20065050895001593,0
+2023,"White, Hispanic/Latino",75-79,Male,3,1,388865,0.7714759620948143,0.25715865403160476
+2023,"White, Hispanic/Latino",80+,Female,2,0,647792,0.30874107738286366,0
+2023,"White, Hispanic/Latino",80+,Male,5,3,403302,1.2397657338669286,0.7438594403201572
+2023,"White, Hispanic/Latino",Unknown,Female,6,6,NA,NA,NA
+2023,"White, Hispanic/Latino",Unknown,Male,8,66,NA,NA,NA
+2023,"White, Not Hispanic/Latino",0-4,Female,45,0,4244778,1.0601261126023551,0
+2023,"White, Not Hispanic/Latino",0-4,Male,57,0,4502084,1.266080330797915,0
+2023,"White, Not Hispanic/Latino",0-4,Unknown,1,0,NA,NA,NA
+2023,"White, Not Hispanic/Latino",10-14,Female,13,3,5033088,0.2582907352305384,0.0596055542839704
+2023,"White, Not Hispanic/Latino",10-14,Male,24,25,5299167,0.4529013711022883,0.47177226156488367
+2023,"White, Not Hispanic/Latino",15-19,Female,64,57,5390606,1.18725056143966,1.0573950312821971
+2023,"White, Not Hispanic/Latino",15-19,Male,195,404,5714895,3.4121361809797026,7.069246241619488
+2023,"White, Not Hispanic/Latino",15-19,Unknown,1,0,NA,NA,NA
+2023,"White, Not Hispanic/Latino",20-24,Female,111,88,5499992,2.018184753723278,1.6000023272761126
+2023,"White, Not Hispanic/Latino",20-24,Male,217,421,5850431,3.7091284385714487,7.196051025984239
+2023,"White, Not Hispanic/Latino",25-29,Female,92,78,5698128,1.6145653449694357,1.3688706185610433
+2023,"White, Not Hispanic/Latino",25-29,Male,218,389,5918309,3.6834845899394573,6.57282341966261
+2023,"White, Not Hispanic/Latino",25-29,Unknown,1,0,NA,NA,NA
+2023,"White, Not Hispanic/Latino",30-34,Female,136,99,6200952,2.193211622989502,1.5965290490879467
+2023,"White, Not Hispanic/Latino",30-34,Male,283,387,6354989,4.453194175473789,6.089703695789245
+2023,"White, Not Hispanic/Latino",35-39,Female,158,97,6213979,2.5426542316927687,1.5609965852797378
+2023,"White, Not Hispanic/Latino",35-39,Male,297,351,6406334,4.636036772356857,5.478952549149014
+2023,"White, Not Hispanic/Latino",35-39,Unknown,1,1,NA,NA,NA
+2023,"White, Not Hispanic/Latino",40-44,Female,156,77,6135359,2.5426384992304443,1.2550202848765655
+2023,"White, Not Hispanic/Latino",40-44,Male,271,304,6270993,4.321484651633321,4.847717099987195
+2023,"White, Not Hispanic/Latino",40-44,Unknown,2,0,NA,NA,NA
+2023,"White, Not Hispanic/Latino",45-49,Female,113,41,5544570,2.038030000523034,0.739462212579154
+2023,"White, Not Hispanic/Latino",45-49,Male,231,227,5671564,4.072950600575079,4.002423317448239
+2023,"White, Not Hispanic/Latino",5-9,Female,14,0,4752186,0.29460126350273325,0
+2023,"White, Not Hispanic/Latino",5-9,Male,31,1,5011724,0.6185496248396759,0.019953213704505677
+2023,"White, Not Hispanic/Latino",5-9,Unknown,1,0,NA,NA,NA
+2023,"White, Not Hispanic/Latino",50-54,Female,100,34,6173970,1.6197033675252714,0.5506991449585923
+2023,"White, Not Hispanic/Latino",50-54,Male,188,165,6296021,2.986012911964557,2.62070282167102
+2023,"White, Not Hispanic/Latino",55-59,Female,98,30,6494573,1.5089521666782404,0.46192413265660426
+2023,"White, Not Hispanic/Latino",55-59,Male,214,167,6462354,3.311486804963021,2.584197646863666
+2023,"White, Not Hispanic/Latino",60-64,Female,113,17,7567451,1.4932372869014943,0.22464631749845487
+2023,"White, Not Hispanic/Latino",60-64,Male,173,123,7333369,2.3590794353863824,1.6772645696677748
+2023,"White, Not Hispanic/Latino",65-69,Female,75,11,7062120,1.0620040441113998,0.15576059313633867
+2023,"White, Not Hispanic/Latino",65-69,Male,115,59,6538988,1.7586819244812808,0.9022802916903961
+2023,"White, Not Hispanic/Latino",70-74,Female,61,5,6112159,0.9980106865675451,0.081804154636684015
+2023,"White, Not Hispanic/Latino",70-74,Male,74,53,5568959,1.3287941247188209,0.9517039001364528
+2023,"White, Not Hispanic/Latino",75-79,Female,45,5,4643492,0.9690982562261332,0.10767758402512592
+2023,"White, Not Hispanic/Latino",75-79,Male,46,41,3997892,1.1506063695567565,1.0255404598223263
+2023,"White, Not Hispanic/Latino",80+,Female,54,2,6029200,0.8956412127645459,0.033171896769057255
+2023,"White, Not Hispanic/Latino",80+,Male,45,41,4129172,1.08980686684885,0.9929351453511744
+2023,"White, Not Hispanic/Latino",Unknown,Female,8,5,NA,NA,NA
+2023,"White, Not Hispanic/Latino",Unknown,Male,23,43,NA,NA,NA
+2023,"White, Not Hispanic/Latino",Unknown,Unknown,1,2,NA,NA,NA
+2024,"American Indian or Alaska Native, Hispanic/Latino",15-19,Female,1,2,139595,0.716358035746266,1.432716071492532
+2024,"American Indian or Alaska Native, Hispanic/Latino",20-24,Male,1,3,136027,0.7351481691134848,2.2054445073404545
+2024,"American Indian or Alaska Native, Hispanic/Latino",25-29,Female,2,0,122169,1.6370765087706376,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",30-34,Male,2,0,146800,1.3623978201634876,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",35-39,Female,1,0,123429,0.8101823720519489,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,Female,3,0,121156,2.47614645580904,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,Male,2,0,130082,1.537491735981919,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,Female,1,0,154826,0.6458863498378825,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,Female,6,8,165450,3.626473254759746,4.835297673012995
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,Male,11,40,176974,6.215602291862081,22.60219015222575
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,Female,2,6,146763,1.362741290379728,4.088223871139184
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,Male,14,14,152019,9.209375143896487,9.209375143896487
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,Female,7,8,143312,4.884447917829631,5.582226191805292
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,Male,15,17,146463,10.24149443886852,11.607027030717656
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,Female,3,8,156863,1.9124968921925503,5.099991712513467
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,Male,20,28,171656,11.651209395535258,16.31169315374936
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,Female,9,2,167036,5.388060058909457,1.197346679757657
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,Male,11,9,156981,7.007217433956976,5.7331779005102526
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,Female,2,2,158851,1.2590414917123594,1.2590414917123594
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,Male,8,10,169981,4.706408363287661,5.883010454109577
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,Female,1,6,137610,0.7266913741733886,4.360148245040332
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,Male,13,3,142186,9.14295359599398,2.1099123683063032
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,Male,2,0,142627,1.4022590393123322,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,Female,3,1,145920,2.0559210526315788,0.6853070175438597
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,Male,7,5,135695,5.158627805003869,3.684734146431335
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,Female,2,1,140464,1.4238523749857614,0.7119261874928807
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,Male,4,4,124079,3.2237526092247686,3.2237526092247686
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,Male,1,3,136376,0.7332668504722238,2.1998005514166716
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,Male,4,2,112158,3.56639740366269,1.783198701831345
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,Male,3,1,83862,3.5773055734420836,1.1924351911473612
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,Male,4,0,55895,7.156275158779855,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",80+,Female,1,1,78173,1.279214050887135,1.279214050887135
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,Female,1,0,NA,NA,NA
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,Male,3,1,NA,NA,NA
+2024,"Asian, Hispanic/Latino",15-19,Male,3,0,51999,5.769341718109963,0
+2024,"Asian, Hispanic/Latino",20-24,Male,2,1,36442,5.4881729872125575,2.7440864936062788
+2024,"Asian, Hispanic/Latino",30-34,Male,1,0,28319,3.5311981355273847,0
+2024,"Asian, Not Hispanic/Latino",0-4,Female,2,0,657383,0.30423664743383994,0
+2024,"Asian, Not Hispanic/Latino",0-4,Male,5,0,685334,0.729571274736114,0
+2024,"Asian, Not Hispanic/Latino",10-14,Female,1,0,753270,0.13275452361039203,0
+2024,"Asian, Not Hispanic/Latino",10-14,Male,2,0,800182,0.24994313793611952,0
+2024,"Asian, Not Hispanic/Latino",15-19,Male,6,14,777878,0.7713291801542145,1.7997680870265003
+2024,"Asian, Not Hispanic/Latino",20-24,Female,2,0,789169,0.25343114085829527,0
+2024,"Asian, Not Hispanic/Latino",20-24,Male,13,18,836871,1.553405483043384,2.1508691303677625
+2024,"Asian, Not Hispanic/Latino",25-29,Female,7,1,927752,0.7545119816502686,0.10778742595003836
+2024,"Asian, Not Hispanic/Latino",25-29,Male,18,20,899881,2.0002644794145006,2.2225160882383337
+2024,"Asian, Not Hispanic/Latino",30-34,Female,7,2,1049556,0.6669486906844418,0.19055676876698335
+2024,"Asian, Not Hispanic/Latino",30-34,Male,14,20,1009799,1.3864145240785541,1.9805921772550776
+2024,"Asian, Not Hispanic/Latino",35-39,Female,11,3,1073379,1.0248011187101667,0.2794912141936818
+2024,"Asian, Not Hispanic/Latino",35-39,Male,18,14,1019621,1.7653618354270852,1.3730592053321773
+2024,"Asian, Not Hispanic/Latino",40-44,Female,8,1,1044625,0.7658250568385785,0.09572813210482231
+2024,"Asian, Not Hispanic/Latino",40-44,Male,10,14,914346,1.0936778856144171,1.5311490398601844
+2024,"Asian, Not Hispanic/Latino",45-49,Female,4,1,888089,0.4504053084769657,0.11260132711924142
+2024,"Asian, Not Hispanic/Latino",45-49,Male,6,13,787123,0.762269683391287,1.6515843140144553
+2024,"Asian, Not Hispanic/Latino",5-9,Female,3,0,718309,0.4176475583627659,0
+2024,"Asian, Not Hispanic/Latino",5-9,Male,1,0,775965,0.12887179189783043,0
+2024,"Asian, Not Hispanic/Latino",50-54,Female,6,3,835939,0.7177557214102943,0.35887786070514716
+2024,"Asian, Not Hispanic/Latino",50-54,Male,12,6,748805,1.6025534017534606,0.8012767008767303
+2024,"Asian, Not Hispanic/Latino",55-59,Female,7,1,715222,0.9787170976284286,0.13981672823263266
+2024,"Asian, Not Hispanic/Latino",55-59,Male,2,2,607086,0.32944261603792546,0.32944261603792546
+2024,"Asian, Not Hispanic/Latino",60-64,Female,2,0,658842,0.3035629179681927,0
+2024,"Asian, Not Hispanic/Latino",60-64,Male,10,4,573484,1.743727811063604,0.6974911244254417
+2024,"Asian, Not Hispanic/Latino",65-69,Female,6,1,603318,0.9945004127176713,0.16575006878627854
+2024,"Asian, Not Hispanic/Latino",65-69,Male,4,3,485053,0.8246521514143815,0.6184891135607862
+2024,"Asian, Not Hispanic/Latino",70-74,Female,5,2,481965,1.0374197296484184,0.4149678918593674
+2024,"Asian, Not Hispanic/Latino",70-74,Male,2,0,375544,0.5325607651833074,0
+2024,"Asian, Not Hispanic/Latino",75-79,Female,2,0,367595,0.5440770413090493,0
+2024,"Asian, Not Hispanic/Latino",75-79,Male,4,4,268545,1.489508276080359,1.489508276080359
+2024,"Asian, Not Hispanic/Latino",80+,Female,2,0,418560,0.47782874617737,0
+2024,"Asian, Not Hispanic/Latino",80+,Male,2,1,295724,0.6763062855906183,0.33815314279530917
+2024,"Asian, Not Hispanic/Latino",Unknown,Female,1,0,NA,NA,NA
+2024,"Black or African American, Hispanic/Latino",0-4,Female,2,0,215180,0.9294544102611768,0
+2024,"Black or African American, Hispanic/Latino",0-4,Male,1,0,221701,0.4510579564368226,0
+2024,"Black or African American, Hispanic/Latino",15-19,Male,8,25,167395,4.779115266286328,14.934735207144776
+2024,"Black or African American, Hispanic/Latino",20-24,Female,2,3,135204,1.4792461761486346,2.218869264222952
+2024,"Black or African American, Hispanic/Latino",20-24,Male,15,15,132650,11.307953260459858,11.307953260459858
+2024,"Black or African American, Hispanic/Latino",25-29,Female,3,2,122293,2.4531248722330794,1.6354165814887198
+2024,"Black or African American, Hispanic/Latino",25-29,Male,21,9,120226,17.467103621512816,7.485901552076922
+2024,"Black or African American, Hispanic/Latino",30-34,Female,3,2,114762,2.6141057144350914,1.742737142956728
+2024,"Black or African American, Hispanic/Latino",30-34,Male,15,8,111983,13.394890295848478,7.143941491119188
+2024,"Black or African American, Hispanic/Latino",35-39,Male,8,12,96865,8.258917049501884,12.388375574252827
+2024,"Black or African American, Hispanic/Latino",40-44,Female,1,1,94797,1.0548857031340655,1.0548857031340655
+2024,"Black or African American, Hispanic/Latino",40-44,Male,9,4,84485,10.652778599751436,4.7345682665561934
+2024,"Black or African American, Hispanic/Latino",45-49,Female,1,0,76311,1.3104270681815204,0
+2024,"Black or African American, Hispanic/Latino",45-49,Male,3,2,72115,4.160022186784996,2.7733481245233307
+2024,"Black or African American, Hispanic/Latino",5-9,Male,2,0,193795,1.0320183699269847,0
+2024,"Black or African American, Hispanic/Latino",50-54,Female,2,2,60649,3.2976636053356194,3.2976636053356194
+2024,"Black or African American, Hispanic/Latino",50-54,Male,5,3,54409,9.189656123067875,5.513793673840725
+2024,"Black or African American, Hispanic/Latino",60-64,Female,1,0,45069,2.2188200315072444,0
+2024,"Black or African American, Hispanic/Latino",60-64,Male,1,0,39153,2.554082701197865,0
+2024,"Black or African American, Hispanic/Latino",70-74,Male,1,0,22905,4.365858982754857,0
+2024,"Black or African American, Not Hispanic/Latino",0-4,Female,63,0,1479434,4.2583853014058075,0
+2024,"Black or African American, Not Hispanic/Latino",0-4,Male,82,0,1503949,5.452312545172742,0
+2024,"Black or African American, Not Hispanic/Latino",0-4,Unknown,1,0,NA,NA,NA
+2024,"Black or African American, Not Hispanic/Latino",10-14,Female,28,4,1657344,1.689450108124807,0.241350015446401
+2024,"Black or African American, Not Hispanic/Latino",10-14,Male,90,93,1749418,5.144568079212629,5.316053681853051
+2024,"Black or African American, Not Hispanic/Latino",15-19,Female,134,105,1722121,7.7811024893140495,6.097132547596829
+2024,"Black or African American, Not Hispanic/Latino",15-19,Male,913,1655,1779641,51.30248179267616,92.99628408201428
+2024,"Black or African American, Not Hispanic/Latino",20-24,Female,181,166,1660821,10.898224432374109,9.99505666173537
+2024,"Black or African American, Not Hispanic/Latino",20-24,Male,1054,1423,1672009,63.03793819291642,85.10719738948774
+2024,"Black or African American, Not Hispanic/Latino",20-24,Unknown,1,1,NA,NA,NA
+2024,"Black or African American, Not Hispanic/Latino",25-29,Female,153,140,1650363,9.270687721428558,8.482982228758159
+2024,"Black or African American, Not Hispanic/Latino",25-29,Male,891,972,1619908,55.0031236341817,60.003407600925485
+2024,"Black or African American, Not Hispanic/Latino",25-29,Unknown,2,1,NA,NA,NA
+2024,"Black or African American, Not Hispanic/Latino",30-34,Female,169,148,1846413,9.152881830879657,8.015541485030706
+2024,"Black or African American, Not Hispanic/Latino",30-34,Male,872,827,1766688,49.35789454617906,46.81075549276386
+2024,"Black or African American, Not Hispanic/Latino",30-34,Unknown,1,2,NA,NA,NA
+2024,"Black or African American, Not Hispanic/Latino",35-39,Female,136,89,1636955,8.308108652956252,5.436924044949311
+2024,"Black or African American, Not Hispanic/Latino",35-39,Male,721,538,1533456,47.017977692219404,35.08414978975595
+2024,"Black or African American, Not Hispanic/Latino",35-39,Unknown,1,0,NA,NA,NA
+2024,"Black or African American, Not Hispanic/Latino",40-44,Female,95,72,1598460,5.943220349586476,4.504335422844488
+2024,"Black or African American, Not Hispanic/Latino",40-44,Male,524,419,1496229,35.02137707530064,28.003734722425513
+2024,"Black or African American, Not Hispanic/Latino",45-49,Female,87,44,1414596,6.1501658424030605,3.1104287019049965
+2024,"Black or African American, Not Hispanic/Latino",45-49,Male,385,254,1250184,30.795466907271248,20.31700933622571
+2024,"Black or African American, Not Hispanic/Latino",5-9,Female,17,0,1600283,1.0623121035466851,0
+2024,"Black or African American, Not Hispanic/Latino",5-9,Male,21,0,1649050,1.2734604772444742,0
+2024,"Black or African American, Not Hispanic/Latino",50-54,Female,64,23,1381613,4.63226677803408,1.6647208733559975
+2024,"Black or African American, Not Hispanic/Latino",50-54,Male,264,180,1222388,21.597070651871583,14.725275444457898
+2024,"Black or African American, Not Hispanic/Latino",55-59,Female,46,19,1299855,3.538856257044055,1.4617014974747182
+2024,"Black or African American, Not Hispanic/Latino",55-59,Male,181,128,1113599,16.253606549574847,11.49426319527945
+2024,"Black or African American, Not Hispanic/Latino",60-64,Female,39,9,1400600,2.784520919605883,0.6425817506782807
+2024,"Black or African American, Not Hispanic/Latino",60-64,Male,125,93,1191941,10.487096257281191,7.8023996154172055
+2024,"Black or African American, Not Hispanic/Latino",60-64,Unknown,1,0,NA,NA,NA
+2024,"Black or African American, Not Hispanic/Latino",65-69,Female,30,5,1215472,2.4681769715797652,0.4113628285966275
+2024,"Black or African American, Not Hispanic/Latino",65-69,Male,80,51,958306,8.348064188265543,5.321890920019284
+2024,"Black or African American, Not Hispanic/Latino",65-69,Unknown,1,0,NA,NA,NA
+2024,"Black or African American, Not Hispanic/Latino",70-74,Female,6,5,966826,0.6205873652549684,0.5171561377124736
+2024,"Black or African American, Not Hispanic/Latino",70-74,Male,38,22,716547,5.303211094317609,3.0702801072365102
+2024,"Black or African American, Not Hispanic/Latino",75-79,Female,14,2,626920,2.233139794551139,0.3190199706501627
+2024,"Black or African American, Not Hispanic/Latino",75-79,Male,22,7,441840,4.979177982980264,1.5842839036755385
+2024,"Black or African American, Not Hispanic/Latino",80+,Female,11,0,757510,1.452126044540666,0
+2024,"Black or African American, Not Hispanic/Latino",80+,Male,22,8,402423,5.466884348061617,1.9879579447496787
+2024,"Black or African American, Not Hispanic/Latino",Unknown,Female,7,22,NA,NA,NA
+2024,"Black or African American, Not Hispanic/Latino",Unknown,Male,57,403,NA,NA,NA
+2024,"Black or African American, Not Hispanic/Latino",Unknown,Unknown,1,9,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,Male,2,2,6279,31.852205765249245,31.852205765249245
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,Male,1,0,7147,13.991884706870014,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,Female,1,1,5362,18.64975755315181,18.64975755315181
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,Female,3,0,26751,11.2145340361108,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,Male,1,0,32782,3.0504545177231406,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,Male,1,9,36175,2.7643400138217,24.8790601243953
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,Female,2,1,30916,6.469142191745374,3.234571095872687
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,Male,8,4,26668,29.99850007499625,14.999250037498125
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,Female,1,2,33296,3.00336376741951,6.00672753483902
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,Male,5,1,33382,14.978131927386015,2.995626385477203
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,Male,1,3,34275,2.917578409919767,8.752735229759299
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,Female,2,0,28270,7.074637424831977,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,Male,2,0,32942,6.0712767895088335,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,Male,2,4,24435,8.184980560671168,16.369961121342335
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,Female,1,0,22018,4.541738577527478,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,Male,1,0,19863,5.034486230680159,0
+2024,"Unknown, Hispanic/Latino",0-4,Female,2,0,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",10-14,Female,2,0,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",15-19,Female,1,3,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",15-19,Male,13,7,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",20-24,Male,8,9,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",25-29,Female,2,0,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",25-29,Male,10,7,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",30-34,Female,1,1,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",30-34,Male,9,14,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",35-39,Female,1,0,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",35-39,Male,7,7,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",40-44,Female,2,0,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",40-44,Male,8,2,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",45-49,Male,4,3,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",5-9,Female,3,0,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",50-54,Male,2,1,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",55-59,Female,2,0,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",60-64,Male,2,0,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",75-79,Female,1,0,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",Unknown,Male,2,7,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",0-4,Female,2,0,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",0-4,Male,1,0,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",0-4,Unknown,1,0,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",15-19,Male,3,4,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",20-24,Female,2,3,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",20-24,Male,3,13,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",25-29,Female,1,2,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",25-29,Male,8,4,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",25-29,Unknown,2,0,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",30-34,Unknown,1,0,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",35-39,Female,1,2,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",35-39,Male,5,2,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",40-44,Male,1,3,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",50-54,Male,1,1,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",55-59,Male,2,3,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",60-64,Female,1,0,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",60-64,Male,1,1,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",65-69,Female,1,0,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",65-69,Male,3,0,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",70-74,Female,1,0,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",75-79,Male,1,0,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",Unknown,Female,1,1,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",Unknown,Unknown,4,22,NA,NA,NA
+2024,"Unknown, Unknown",0-4,Female,1,0,NA,NA,NA
+2024,"Unknown, Unknown",0-4,Male,4,1,NA,NA,NA
+2024,"Unknown, Unknown",0-4,Unknown,3,0,NA,NA,NA
+2024,"Unknown, Unknown",10-14,Female,2,1,NA,NA,NA
+2024,"Unknown, Unknown",15-19,Female,4,3,NA,NA,NA
+2024,"Unknown, Unknown",15-19,Male,20,26,NA,NA,NA
+2024,"Unknown, Unknown",20-24,Female,6,4,NA,NA,NA
+2024,"Unknown, Unknown",20-24,Male,6,20,NA,NA,NA
+2024,"Unknown, Unknown",20-24,Unknown,4,23,NA,NA,NA
+2024,"Unknown, Unknown",25-29,Female,6,5,NA,NA,NA
+2024,"Unknown, Unknown",25-29,Male,16,22,NA,NA,NA
+2024,"Unknown, Unknown",30-34,Female,7,1,NA,NA,NA
+2024,"Unknown, Unknown",30-34,Male,15,28,NA,NA,NA
+2024,"Unknown, Unknown",30-34,Unknown,1,16,NA,NA,NA
+2024,"Unknown, Unknown",35-39,Female,4,2,NA,NA,NA
+2024,"Unknown, Unknown",35-39,Male,12,20,NA,NA,NA
+2024,"Unknown, Unknown",35-39,Unknown,2,10,NA,NA,NA
+2024,"Unknown, Unknown",40-44,Female,5,4,NA,NA,NA
+2024,"Unknown, Unknown",40-44,Male,16,17,NA,NA,NA
+2024,"Unknown, Unknown",40-44,Unknown,1,7,NA,NA,NA
+2024,"Unknown, Unknown",45-49,Male,5,7,NA,NA,NA
+2024,"Unknown, Unknown",45-49,Unknown,5,9,NA,NA,NA
+2024,"Unknown, Unknown",5-9,Male,2,0,NA,NA,NA
+2024,"Unknown, Unknown",50-54,Female,3,5,NA,NA,NA
+2024,"Unknown, Unknown",50-54,Male,5,7,NA,NA,NA
+2024,"Unknown, Unknown",50-54,Unknown,4,32,NA,NA,NA
+2024,"Unknown, Unknown",55-59,Female,2,2,NA,NA,NA
+2024,"Unknown, Unknown",55-59,Male,5,6,NA,NA,NA
+2024,"Unknown, Unknown",55-59,Unknown,7,20,NA,NA,NA
+2024,"Unknown, Unknown",60-64,Female,1,0,NA,NA,NA
+2024,"Unknown, Unknown",60-64,Male,5,2,NA,NA,NA
+2024,"Unknown, Unknown",65-69,Female,2,0,NA,NA,NA
+2024,"Unknown, Unknown",65-69,Male,6,0,NA,NA,NA
+2024,"Unknown, Unknown",70-74,Male,2,0,NA,NA,NA
+2024,"Unknown, Unknown",70-74,Unknown,1,0,NA,NA,NA
+2024,"Unknown, Unknown",75-79,Female,1,1,NA,NA,NA
+2024,"Unknown, Unknown",80+,Male,1,1,NA,NA,NA
+2024,"Unknown, Unknown",80+,Unknown,3,4,NA,NA,NA
+2024,"Unknown, Unknown",Unknown,Female,8,9,NA,NA,NA
+2024,"Unknown, Unknown",Unknown,Male,12,239,NA,NA,NA
+2024,"Unknown, Unknown",Unknown,Unknown,48,988,NA,NA,NA
+2024,"White, Hispanic/Latino",0-4,Female,18,0,2095669,0.8589142655638843,0
+2024,"White, Hispanic/Latino",0-4,Male,22,0,2170007,1.0138216144003223,0
+2024,"White, Hispanic/Latino",0-4,Unknown,1,0,NA,NA,NA
+2024,"White, Hispanic/Latino",10-14,Female,13,1,2387294,0.5445496030233394,0.04188843100179534
+2024,"White, Hispanic/Latino",10-14,Male,27,35,2544464,1.0611272157908307,1.3755352797288545
+2024,"White, Hispanic/Latino",15-19,Female,36,32,2511958,1.4331449809272288,1.2739066497130922
+2024,"White, Hispanic/Latino",15-19,Male,241,418,2667295,9.035371040698534,15.671307448182523
+2024,"White, Hispanic/Latino",20-24,Female,57,48,2386835,2.388099722016813,2.0110313448562636
+2024,"White, Hispanic/Latino",20-24,Male,273,330,2537229,10.759769811869564,13.006315157204968
+2024,"White, Hispanic/Latino",25-29,Female,53,36,2263444,2.3415644478060864,1.5904966060569643
+2024,"White, Hispanic/Latino",25-29,Male,226,261,2369695,9.537092326227636,11.014075651085898
+2024,"White, Hispanic/Latino",30-34,Female,45,33,2288683,1.9661962796944794,1.4418772717759516
+2024,"White, Hispanic/Latino",30-34,Male,221,210,2424423,9.115571003904845,8.661854800090579
+2024,"White, Hispanic/Latino",30-34,Unknown,1,0,NA,NA,NA
+2024,"White, Hispanic/Latino",35-39,Female,51,24,2105651,2.422053797139222,1.1397900221831634
+2024,"White, Hispanic/Latino",35-39,Male,195,164,2358399,8.268321009294866,6.953869977047989
+2024,"White, Hispanic/Latino",40-44,Female,43,17,2081302,2.0660144467261357,0.816796409170798
+2024,"White, Hispanic/Latino",40-44,Male,144,127,2215097,6.500843981098796,5.733383233330189
+2024,"White, Hispanic/Latino",45-49,Female,27,5,1901927,1.4196128452879633,0.26289126764591914
+2024,"White, Hispanic/Latino",45-49,Male,119,77,1974598,6.026543124220727,3.8995279039075297
+2024,"White, Hispanic/Latino",5-9,Female,6,0,2184349,0.2746813810430476,0
+2024,"White, Hispanic/Latino",5-9,Male,6,0,2270562,0.26425175793481964,0
+2024,"White, Hispanic/Latino",50-54,Female,13,6,1752891,0.7416319668479101,0.34229167700672775
+2024,"White, Hispanic/Latino",50-54,Male,74,38,1771546,4.177142450718186,2.145019096314744
+2024,"White, Hispanic/Latino",55-59,Female,19,3,1501275,1.2655909143894357,0.19983014437727933
+2024,"White, Hispanic/Latino",55-59,Male,35,19,1522070,2.2995000229950002,1.2483000124830002
+2024,"White, Hispanic/Latino",60-64,Female,5,1,1327352,0.3766898305799818,0.07533796611599636
+2024,"White, Hispanic/Latino",60-64,Male,36,12,1280760,2.81083106905275,0.93694368968425
+2024,"White, Hispanic/Latino",65-69,Female,8,0,1031011,0.7759374051295281,0
+2024,"White, Hispanic/Latino",65-69,Male,19,6,947269,2.005766049559312,0.6333998051239933
+2024,"White, Hispanic/Latino",70-74,Female,5,0,792061,0.631264511192951,0
+2024,"White, Hispanic/Latino",70-74,Male,9,3,650694,1.3831386181523113,0.4610462060507704
+2024,"White, Hispanic/Latino",75-79,Female,5,0,546003,0.9157458841801235,0
+2024,"White, Hispanic/Latino",75-79,Male,6,3,420816,1.425801300330786,0.712900650165393
+2024,"White, Hispanic/Latino",80+,Female,6,0,689020,0.8708020086499667,0
+2024,"White, Hispanic/Latino",80+,Male,4,2,414939,0.9639971176486182,0.4819985588243091
+2024,"White, Hispanic/Latino",Unknown,Female,2,1,NA,NA,NA
+2024,"White, Hispanic/Latino",Unknown,Male,14,57,NA,NA,NA
+2024,"White, Not Hispanic/Latino",0-4,Female,41,0,4173588,0.9823681685877955,0
+2024,"White, Not Hispanic/Latino",0-4,Male,45,0,4378028,1.0278600319595945,0
+2024,"White, Not Hispanic/Latino",0-4,Unknown,1,0,NA,NA,NA
+2024,"White, Not Hispanic/Latino",10-14,Female,19,5,5023230,0.37824268448786935,0.09953754854943929
+2024,"White, Not Hispanic/Latino",10-14,Male,29,25,5321504,0.5449587184374943,0.4697919986530124
+2024,"White, Not Hispanic/Latino",15-19,Female,55,43,5369772,1.0242520539047095,0.8007788785073183
+2024,"White, Not Hispanic/Latino",15-19,Male,172,291,5659372,3.0392064702585375,5.141913272356014
+2024,"White, Not Hispanic/Latino",20-24,Female,91,89,5535876,1.6438229469012673,1.6076949700462944
+2024,"White, Not Hispanic/Latino",20-24,Male,190,348,5882054,3.230164156942456,5.9163006663998665
+2024,"White, Not Hispanic/Latino",25-29,Female,103,67,5682578,1.8125576102958905,1.179042329027424
+2024,"White, Not Hispanic/Latino",25-29,Male,200,356,5911678,3.383134196415975,6.021978869620436
+2024,"White, Not Hispanic/Latino",25-29,Unknown,1,1,NA,NA,NA
+2024,"White, Not Hispanic/Latino",30-34,Female,121,87,6158177,1.9648672001470564,1.4127557554776358
+2024,"White, Not Hispanic/Latino",30-34,Male,248,380,6344495,3.908900550792459,5.989444392343284
+2024,"White, Not Hispanic/Latino",30-34,Unknown,1,1,NA,NA,NA
+2024,"White, Not Hispanic/Latino",35-39,Female,130,97,6291887,2.0661528091651995,1.5416678653001874
+2024,"White, Not Hispanic/Latino",35-39,Male,299,396,6403279,4.66948261976403,6.184331496409887
+2024,"White, Not Hispanic/Latino",35-39,Unknown,3,1,NA,NA,NA
+2024,"White, Not Hispanic/Latino",40-44,Female,159,65,6172470,2.5759541966182096,1.0530630363533562
+2024,"White, Not Hispanic/Latino",40-44,Male,290,280,6371061,4.551832104574104,4.39487237683017
+2024,"White, Not Hispanic/Latino",45-49,Female,108,39,5643406,1.913737909340565,0.6910720228174263
+2024,"White, Not Hispanic/Latino",45-49,Male,207,210,5765391,3.590389619715298,3.642424251885085
+2024,"White, Not Hispanic/Latino",5-9,Female,14,0,4639212,0.30177538771670703,0
+2024,"White, Not Hispanic/Latino",5-9,Male,24,2,4874901,0.49231769014386134,0.04102647417865512
+2024,"White, Not Hispanic/Latino",50-54,Female,116,40,5989374,1.936763341210617,0.6678494280036611
+2024,"White, Not Hispanic/Latino",50-54,Male,196,172,6090233,3.218267675473171,2.824194082558089
+2024,"White, Not Hispanic/Latino",55-59,Female,84,30,6315333,1.3300961326979908,0.47503433310642523
+2024,"White, Not Hispanic/Latino",55-59,Male,202,130,6289391,3.211757704362791,2.06697278003546
+2024,"White, Not Hispanic/Latino",60-64,Female,86,14,7455616,1.1534928837536698,0.18777791130873694
+2024,"White, Not Hispanic/Latino",60-64,Male,157,115,7242822,2.1676633776171776,1.5877789071718178
+2024,"White, Not Hispanic/Latino",65-69,Female,63,13,7061157,0.8922050593125177,0.18410580588988462
+2024,"White, Not Hispanic/Latino",65-69,Male,114,70,6586571,1.730794369331174,1.0627684723963349
+2024,"White, Not Hispanic/Latino",70-74,Female,65,8,6259399,1.0384383548644207,0.12780779752177485
+2024,"White, Not Hispanic/Latino",70-74,Male,85,50,5654747,1.5031618567550413,0.8842128569147302
+2024,"White, Not Hispanic/Latino",75-79,Female,65,5,4880960,1.3317052383137744,0.10243886448567495
+2024,"White, Not Hispanic/Latino",75-79,Male,62,36,4169350,1.4870423447299939,0.8634439421012867
+2024,"White, Not Hispanic/Latino",80+,Female,71,2,6166035,1.1514692991525348,0.0324357549057052
+2024,"White, Not Hispanic/Latino",80+,Male,50,43,4321097,1.157113575557318,0.9951176749792935
+2024,"White, Not Hispanic/Latino",80+,Unknown,1,0,NA,NA,NA
+2024,"White, Not Hispanic/Latino",Unknown,Female,9,3,NA,NA,NA
+2024,"White, Not Hispanic/Latino",Unknown,Male,26,37,NA,NA,NA
+2024,"White, Not Hispanic/Latino",Unknown,Unknown,5,5,NA,NA,NA
+2021,"American Indian or Alaska Native, Hispanic/Latino",15-19,Female,0,1,132189,0,0.7564925977199314
+2021,"American Indian or Alaska Native, Hispanic/Latino",15-19,Male,0,2,128337,0,1.5583970328120496
+2021,"American Indian or Alaska Native, Hispanic/Latino",30-34,Female,0,1,108776,0,0.9193204383319851
+2021,"American Indian or Alaska Native, Hispanic/Latino",30-34,Male,0,1,118203,0,0.8460022165258073
+2021,"American Indian or Alaska Native, Hispanic/Latino",45-49,Male,0,1,94755,0,1.055353279510316
+2021,"Asian, Hispanic/Latino",15-19,Male,0,1,43528,0,2.2973718066531887
+2021,"Asian, Hispanic/Latino",45-49,Male,0,1,15084,0,6.629541235746487
+2021,"Asian, Not Hispanic/Latino",15-19,Female,0,1,697310,0,0.14340824023748405
+2021,"Asian, Not Hispanic/Latino",75-79,Male,0,1,212654,0,0.4702474442051408
+2021,"Asian, Not Hispanic/Latino",80+,Male,0,1,237427,0,0.42118208965281956
+2021,"Asian, Not Hispanic/Latino",Unknown,Male,0,1,NA,NA,NA
+2021,"Black or African American, Hispanic/Latino",55-59,Male,0,1,43594,0,2.2938936550901503
+2021,"Black or African American, Hispanic/Latino",70-74,Male,0,1,19702,0,5.0756268399147295
+2021,"Black or African American, Not Hispanic/Latino",15-19,Unknown,0,6,NA,NA,NA
+2021,"Black or African American, Not Hispanic/Latino",20-24,Unknown,0,3,NA,NA,NA
+2021,"Black or African American, Not Hispanic/Latino",25-29,Unknown,0,1,NA,NA,NA
+2021,"Black or African American, Not Hispanic/Latino",45-49,Unknown,0,1,NA,NA,NA
+2021,"Black or African American, Not Hispanic/Latino",80+,Unknown,0,1,NA,NA,NA
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,Male,0,1,5327,0,18.772292096865026
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,Female,0,1,5162,0,19.372336303758235
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,Male,0,1,4675,0,21.390374331550802
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,Male,0,1,5282,0,18.93222264293828
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,Male,0,1,3798,0,26.32964718272775
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,Female,0,2,32674,0,6.121074860745546
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,Female,0,1,31069,0,3.2186423766455308
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,Female,0,1,29292,0,3.4139014065273794
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,Male,0,1,19609,0,5.099699117752053
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,Unknown,0,1,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",15-19,Female,0,1,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",25-29,Female,0,1,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",60-64,Male,0,1,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",80+,Male,0,1,NA,NA,NA
+2021,"Unknown, Hispanic/Latino",Unknown,Unknown,0,1,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",15-19,Unknown,0,1,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",35-39,Male,0,2,NA,NA,NA
+2021,"Unknown, Not Hispanic/Latino",80+,Unknown,0,1,NA,NA,NA
+2021,"Unknown, Unknown",25-29,Unknown,0,24,NA,NA,NA
+2021,"Unknown, Unknown",40-44,Unknown,0,5,NA,NA,NA
+2021,"Unknown, Unknown",5-9,Unknown,0,2,NA,NA,NA
+2021,"Unknown, Unknown",60-64,Unknown,0,1,NA,NA,NA
+2021,"Unknown, Unknown",75-79,Female,0,1,NA,NA,NA
+2021,"Unknown, Unknown",80+,Unknown,0,18,NA,NA,NA
+2021,"Unknown, Unknown",Unknown,Female,0,8,NA,NA,NA
+2021,"White, Hispanic/Latino",25-29,Unknown,0,1,NA,NA,NA
+2021,"White, Hispanic/Latino",55-59,Unknown,0,1,NA,NA,NA
+2021,"White, Hispanic/Latino",Unknown,Unknown,0,1,NA,NA,NA
+2021,"White, Not Hispanic/Latino",30-34,Unknown,0,2,NA,NA,NA
+2021,"White, Not Hispanic/Latino",65-69,Unknown,0,1,NA,NA,NA
+2022,"American Indian or Alaska Native, Hispanic/Latino",20-24,Female,0,1,127668,0,0.7832816367453082
+2022,"American Indian or Alaska Native, Hispanic/Latino",25-29,Male,0,1,121827,0,0.8208361036551832
+2022,"Asian, Hispanic/Latino",30-34,Male,0,1,26840,0,3.7257824143070044
+2022,"Asian, Hispanic/Latino",55-59,Male,0,1,8840,0,11.312217194570136
+2022,"Asian, Not Hispanic/Latino",15-19,Unknown,0,1,NA,NA,NA
+2022,"Asian, Not Hispanic/Latino",Unknown,Unknown,0,1,NA,NA,NA
+2022,"Black or African American, Hispanic/Latino",10-14,Male,0,2,172736,0,1.1578362356428307
+2022,"Black or African American, Hispanic/Latino",70-74,Male,0,1,14672,0,6.815703380588877
+2022,"Black or African American, Not Hispanic/Latino",15-19,Unknown,0,3,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",55-59,Unknown,0,1,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,Male,0,1,8529,0,11.724703951225232
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,Male,0,3,6401,0,46.867676925480396
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,Male,0,3,4679,0,64.11626415900834
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,Male,0,1,5196,0,19.245573518090836
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,Female,0,2,27742,0,7.209285559801024
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,Female,0,1,29675,0,3.3698399326032016
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,Male,0,5,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,Unknown,0,1,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",10-14,Female,0,1,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",10-14,Male,0,2,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",50-54,Male,0,1,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",50-54,Unknown,0,1,NA,NA,NA
+2022,"Unknown, Hispanic/Latino",Unknown,Male,0,7,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",15-19,Unknown,0,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",20-24,Unknown,0,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",35-39,Unknown,0,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",5-9,Female,0,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",50-54,Female,0,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",50-54,Unknown,0,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",55-59,Unknown,0,2,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",80+,Unknown,0,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",Unknown,Female,0,1,NA,NA,NA
+2022,"Unknown, Not Hispanic/Latino",Unknown,Unknown,0,44,NA,NA,NA
+2022,"Unknown, Unknown",10-14,Unknown,0,3,NA,NA,NA
+2022,"Unknown, Unknown",20-24,Unknown,0,36,NA,NA,NA
+2022,"Unknown, Unknown",35-39,Unknown,0,21,NA,NA,NA
+2022,"Unknown, Unknown",40-44,Unknown,0,4,NA,NA,NA
+2022,"Unknown, Unknown",5-9,Unknown,0,1,NA,NA,NA
+2022,"Unknown, Unknown",65-69,Unknown,0,1,NA,NA,NA
+2022,"Unknown, Unknown",80+,Male,0,2,NA,NA,NA
+2022,"White, Hispanic/Latino",20-24,Unknown,0,1,NA,NA,NA
+2022,"White, Hispanic/Latino",25-29,Unknown,0,3,NA,NA,NA
+2022,"White, Hispanic/Latino",45-49,Unknown,0,1,NA,NA,NA
+2022,"White, Hispanic/Latino",Unknown,Unknown,0,1,NA,NA,NA
+2023,"American Indian or Alaska Native, Hispanic/Latino",15-19,Female,0,1,141423,0,0.7070985624686225
+2023,"American Indian or Alaska Native, Hispanic/Latino",40-44,Female,0,1,111387,0,0.8977708350166537
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,Female,0,1,NA,NA,NA
+2023,"Asian, Hispanic/Latino",20-24,Male,0,1,37200,0,2.6881720430107525
+2023,"Asian, Hispanic/Latino",Unknown,Male,0,1,NA,NA,NA
+2023,"Asian, Not Hispanic/Latino",Unknown,Male,0,3,NA,NA,NA
+2023,"Black or African American, Hispanic/Latino",25-29,Female,0,1,109262,0,0.9152312789441891
+2023,"Black or African American, Hispanic/Latino",60-64,Male,0,1,36667,0,2.72724793410969
+2023,"Black or African American, Not Hispanic/Latino",25-29,Unknown,0,1,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",30-34,Unknown,0,3,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",50-54,Unknown,0,1,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",55-59,Unknown,0,1,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,Male,0,1,2479,0,40.338846308995564
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,Male,0,1,30881,0,3.2382371037207345
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,Female,0,1,26738,0,3.739995512005385
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,Male,0,2,28979,0,6.901549397839815
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,Male,0,1,20222,0,4.945109286915241
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,Unknown,0,1,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",15-19,Unknown,0,1,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",35-39,Unknown,0,1,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",Unknown,Male,0,20,NA,NA,NA
+2023,"Unknown, Hispanic/Latino",Unknown,Unknown,0,4,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",10-14,Unknown,0,1,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",20-24,Unknown,0,2,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",25-29,Female,0,1,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",25-29,Unknown,0,5,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",45-49,Male,0,3,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",80+,Unknown,0,1,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",Unknown,Female,0,1,NA,NA,NA
+2023,"Unknown, Not Hispanic/Latino",Unknown,Male,0,4,NA,NA,NA
+2023,"Unknown, Unknown",10-14,Male,0,3,NA,NA,NA
+2023,"Unknown, Unknown",15-19,Unknown,0,39,NA,NA,NA
+2023,"Unknown, Unknown",40-44,Unknown,0,6,NA,NA,NA
+2023,"Unknown, Unknown",45-49,Unknown,0,15,NA,NA,NA
+2023,"Unknown, Unknown",80+,Male,0,7,NA,NA,NA
+2023,"White, Hispanic/Latino",Unknown,Unknown,0,3,NA,NA,NA
+2023,"White, Not Hispanic/Latino",45-49,Unknown,0,1,NA,NA,NA
+2024,"American Indian or Alaska Native, Hispanic/Latino",15-19,Male,0,1,143825,0,0.6952894142186685
+2024,"American Indian or Alaska Native, Hispanic/Latino",25-29,Male,0,2,133505,0,1.4980712332871426
+2024,"American Indian or Alaska Native, Hispanic/Latino",35-39,Male,0,1,138594,0,0.7215319566503601
+2024,"American Indian or Alaska Native, Hispanic/Latino",40-44,Male,0,1,125541,0,0.7965525206904518
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,Male,0,4,166800,0,2.398081534772182
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,Female,0,1,155430,0,0.6433764395547835
+2024,"Asian, Hispanic/Latino",35-39,Male,0,1,29242,0,3.4197387319608783
+2024,"Asian, Not Hispanic/Latino",Unknown,Male,0,5,NA,NA,NA
+2024,"Asian, Not Hispanic/Latino",Unknown,Unknown,0,1,NA,NA,NA
+2024,"Black or African American, Hispanic/Latino",10-14,Male,0,1,180187,0,0.5549789940450753
+2024,"Black or African American, Hispanic/Latino",15-19,Female,0,1,153529,0,0.6513427430648282
+2024,"Black or African American, Hispanic/Latino",15-19,Unknown,0,1,NA,NA,NA
+2024,"Black or African American, Hispanic/Latino",20-24,Unknown,0,1,NA,NA,NA
+2024,"Black or African American, Hispanic/Latino",35-39,Female,0,1,106708,0,0.9371368594669566
+2024,"Black or African American, Hispanic/Latino",55-59,Male,0,2,47430,0,4.2167404596247104
+2024,"Black or African American, Hispanic/Latino",65-69,Male,0,1,32227,0,3.1029881776150434
+2024,"Black or African American, Hispanic/Latino",Unknown,Female,0,1,NA,NA,NA
+2024,"Black or African American, Hispanic/Latino",Unknown,Male,0,5,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,Male,0,1,4081,0,24.503798088703746
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,Female,0,1,26623,0,3.7561506967659546
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,Male,0,2,35868,0,5.576000892160143
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,Male,0,1,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,Unknown,0,1,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",20-24,Female,0,2,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",20-24,Unknown,0,1,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",30-34,Unknown,0,1,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",55-59,Male,0,2,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",65-69,Male,0,1,NA,NA,NA
+2024,"Unknown, Hispanic/Latino",Unknown,Female,0,1,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",10-14,Male,0,1,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",15-19,Unknown,0,1,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",30-34,Male,0,5,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",40-44,Female,0,1,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",45-49,Female,0,1,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",45-49,Male,0,4,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",50-54,Female,0,1,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",80+,Male,0,1,NA,NA,NA
+2024,"Unknown, Not Hispanic/Latino",Unknown,Male,0,5,NA,NA,NA
+2024,"Unknown, Unknown",15-19,Unknown,0,30,NA,NA,NA
+2024,"Unknown, Unknown",25-29,Unknown,0,26,NA,NA,NA
+2024,"Unknown, Unknown",45-49,Female,0,1,NA,NA,NA
+2024,"Unknown, Unknown",80+,Female,0,3,NA,NA,NA
+2024,"White, Hispanic/Latino",25-29,Unknown,0,1,NA,NA,NA
+2024,"White, Hispanic/Latino",Unknown,Unknown,0,4,NA,NA,NA
+2024,"White, Not Hispanic/Latino",55-59,Unknown,0,2,NA,NA,NA
+2021,"American Indian or Alaska Native, Hispanic/Latino",0-4,Female,0,0,93394,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",0-4,Male,0,0,105631,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",10-14,Female,0,0,134147,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",10-14,Male,0,0,138595,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",20-24,Female,0,0,105883,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",20-24,Male,0,0,115347,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",25-29,Male,0,0,105607,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",35-39,Male,0,0,114908,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",40-44,Female,0,0,104128,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",45-49,Female,0,0,80939,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",5-9,Female,0,0,107877,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",5-9,Male,0,0,118537,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",50-54,Female,0,0,75910,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",50-54,Male,0,0,77839,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",55-59,Female,0,0,62156,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",55-59,Male,0,0,63200,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",60-64,Female,0,0,51910,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",60-64,Male,0,0,57372,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",65-69,Female,0,0,37187,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",70-74,Female,0,0,28242,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",70-74,Male,0,0,22134,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",75-79,Female,0,0,18400,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",75-79,Male,0,0,13049,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",80+,Female,0,0,16391,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",80+,Male,0,0,11138,0,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,Male,0,0,175078,0,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,Female,0,0,61926,0,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",80+,Female,0,0,59533,0,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",80+,Male,0,0,39690,0,0
+2021,"Asian, Hispanic/Latino",0-4,Female,0,0,67234,0,0
+2021,"Asian, Hispanic/Latino",10-14,Female,0,0,56977,0,0
+2021,"Asian, Hispanic/Latino",10-14,Male,0,0,49201,0,0
+2021,"Asian, Hispanic/Latino",15-19,Female,0,0,41358,0,0
+2021,"Asian, Hispanic/Latino",20-24,Female,0,0,35606,0,0
+2021,"Asian, Hispanic/Latino",25-29,Female,0,0,30577,0,0
+2021,"Asian, Hispanic/Latino",30-34,Female,0,0,28118,0,0
+2021,"Asian, Hispanic/Latino",30-34,Male,0,0,28551,0,0
+2021,"Asian, Hispanic/Latino",35-39,Female,0,0,23268,0,0
+2021,"Asian, Hispanic/Latino",35-39,Male,0,0,22324,0,0
+2021,"Asian, Hispanic/Latino",40-44,Female,0,0,17393,0,0
+2021,"Asian, Hispanic/Latino",40-44,Male,0,0,17974,0,0
+2021,"Asian, Hispanic/Latino",45-49,Female,0,0,15365,0,0
+2021,"Asian, Hispanic/Latino",5-9,Female,0,0,60602,0,0
+2021,"Asian, Hispanic/Latino",5-9,Male,0,0,61159,0,0
+2021,"Asian, Hispanic/Latino",50-54,Female,0,0,12066,0,0
+2021,"Asian, Hispanic/Latino",50-54,Male,0,0,13258,0,0
+2021,"Asian, Hispanic/Latino",55-59,Female,0,0,11188,0,0
+2021,"Asian, Hispanic/Latino",55-59,Male,0,0,9236,0,0
+2021,"Asian, Hispanic/Latino",60-64,Female,0,0,9738,0,0
+2021,"Asian, Hispanic/Latino",60-64,Male,0,0,9176,0,0
+2021,"Asian, Hispanic/Latino",65-69,Female,0,0,7951,0,0
+2021,"Asian, Hispanic/Latino",65-69,Male,0,0,6664,0,0
+2021,"Asian, Hispanic/Latino",70-74,Female,0,0,5702,0,0
+2021,"Asian, Hispanic/Latino",70-74,Male,0,0,3441,0,0
+2021,"Asian, Hispanic/Latino",75-79,Female,0,0,3576,0,0
+2021,"Asian, Hispanic/Latino",80+,Female,0,0,2952,0,0
+2021,"Asian, Hispanic/Latino",80+,Male,0,0,2661,0,0
+2021,"Black or African American, Hispanic/Latino",10-14,Female,0,0,162456,0,0
+2021,"Black or African American, Hispanic/Latino",45-49,Female,0,0,62703,0,0
+2021,"Black or African American, Hispanic/Latino",5-9,Female,0,0,170175,0,0
+2021,"Black or African American, Hispanic/Latino",5-9,Male,0,0,177795,0,0
+2021,"Black or African American, Hispanic/Latino",50-54,Female,0,0,55304,0,0
+2021,"Black or African American, Hispanic/Latino",55-59,Female,0,0,47844,0,0
+2021,"Black or African American, Hispanic/Latino",60-64,Female,0,0,36460,0,0
+2021,"Black or African American, Hispanic/Latino",65-69,Female,0,0,33511,0,0
+2021,"Black or African American, Hispanic/Latino",70-74,Female,0,0,21525,0,0
+2021,"Black or African American, Hispanic/Latino",75-79,Female,0,0,14974,0,0
+2021,"Black or African American, Hispanic/Latino",80+,Female,0,0,16050,0,0
+2021,"Black or African American, Hispanic/Latino",80+,Male,0,0,9845,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,Female,0,0,8372,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,Male,0,0,8247,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,Female,0,0,7051,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,Male,0,0,5711,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,Female,0,0,6567,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,Male,0,0,6670,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,Female,0,0,5453,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,Female,0,0,3595,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,Male,0,0,5498,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,Female,0,0,2752,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,Female,0,0,1896,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,Male,0,0,2335,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,Female,0,0,8019,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,Male,0,0,8476,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,Female,0,0,2590,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,Male,0,0,2943,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,Female,0,0,1645,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,Female,0,0,3461,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,Male,0,0,2544,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,Female,0,0,1074,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,Male,0,0,1211,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,Female,0,0,792,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,Male,0,0,1391,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,Female,0,0,1171,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,Male,0,0,309,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,Female,0,0,1051,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,Male,0,0,394,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,Female,0,0,23098,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,Male,0,0,28922,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,Female,0,0,33800,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,Male,0,0,33040,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,Female,0,0,25381,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,Female,0,0,24254,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,Female,0,0,27848,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,Male,0,0,29091,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,Female,0,0,21411,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,Female,0,0,19232,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,Female,0,0,21994,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,Female,0,0,14937,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,Male,0,0,12793,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,Female,0,0,13060,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,Male,0,0,11880,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,Female,0,0,9406,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,Male,0,0,6573,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,Female,0,0,6361,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,Male,0,0,5973,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",0-4,Female,0,0,104570,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",0-4,Male,0,0,106117,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",10-14,Female,0,0,121531,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",10-14,Male,0,0,131574,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",20-24,Male,0,0,129849,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",25-29,Female,0,0,107427,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",30-34,Female,0,0,102734,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",30-34,Male,0,0,121075,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",35-39,Female,0,0,100154,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",40-44,Female,0,0,111079,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",40-44,Male,0,0,112000,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",45-49,Female,0,0,88439,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",5-9,Female,0,0,112642,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",5-9,Male,0,0,109675,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",50-54,Female,0,0,79004,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",50-54,Male,0,0,86490,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",55-59,Female,0,0,54095,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",55-59,Male,0,0,66377,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",60-64,Female,0,0,52139,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",60-64,Male,0,0,55877,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",65-69,Female,0,0,44627,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",65-69,Male,0,0,35164,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",70-74,Female,0,0,27108,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",70-74,Male,0,0,26728,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",75-79,Female,0,0,16977,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",75-79,Male,0,0,14605,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",80+,Female,0,0,16009,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",80+,Male,0,0,12081,0,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,Female,0,0,148722,0,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,Female,0,0,97908,0,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,Female,0,0,63021,0,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,Male,0,0,49718,0,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",80+,Female,0,0,62770,0,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",80+,Male,0,0,38375,0,0
+2022,"Asian, Hispanic/Latino",0-4,Female,0,0,66576,0,0
+2022,"Asian, Hispanic/Latino",0-4,Male,0,0,69420,0,0
+2022,"Asian, Hispanic/Latino",10-14,Female,0,0,50182,0,0
+2022,"Asian, Hispanic/Latino",10-14,Male,0,0,54157,0,0
+2022,"Asian, Hispanic/Latino",15-19,Female,0,0,44175,0,0
+2022,"Asian, Hispanic/Latino",25-29,Female,0,0,36357,0,0
+2022,"Asian, Hispanic/Latino",25-29,Male,0,0,31458,0,0
+2022,"Asian, Hispanic/Latino",30-34,Female,0,0,26085,0,0
+2022,"Asian, Hispanic/Latino",35-39,Female,0,0,22168,0,0
+2022,"Asian, Hispanic/Latino",35-39,Male,0,0,21740,0,0
+2022,"Asian, Hispanic/Latino",40-44,Male,0,0,19162,0,0
+2022,"Asian, Hispanic/Latino",45-49,Female,0,0,15588,0,0
+2022,"Asian, Hispanic/Latino",45-49,Male,0,0,14099,0,0
+2022,"Asian, Hispanic/Latino",5-9,Female,0,0,51307,0,0
+2022,"Asian, Hispanic/Latino",5-9,Male,0,0,63040,0,0
+2022,"Asian, Hispanic/Latino",50-54,Female,0,0,16317,0,0
+2022,"Asian, Hispanic/Latino",50-54,Male,0,0,13940,0,0
+2022,"Asian, Hispanic/Latino",55-59,Female,0,0,9832,0,0
+2022,"Asian, Hispanic/Latino",60-64,Female,0,0,10552,0,0
+2022,"Asian, Hispanic/Latino",60-64,Male,0,0,8043,0,0
+2022,"Asian, Hispanic/Latino",65-69,Female,0,0,6413,0,0
+2022,"Asian, Hispanic/Latino",65-69,Male,0,0,6985,0,0
+2022,"Asian, Hispanic/Latino",70-74,Female,0,0,5473,0,0
+2022,"Asian, Hispanic/Latino",70-74,Male,0,0,4499,0,0
+2022,"Asian, Hispanic/Latino",75-79,Female,0,0,5338,0,0
+2022,"Asian, Hispanic/Latino",75-79,Male,0,0,2293,0,0
+2022,"Asian, Hispanic/Latino",80+,Female,0,0,4785,0,0
+2022,"Asian, Hispanic/Latino",80+,Male,0,0,3003,0,0
+2022,"Asian, Not Hispanic/Latino",5-9,Female,0,0,685830,0,0
+2022,"Asian, Not Hispanic/Latino",80+,Female,0,0,391385,0,0
+2022,"Asian, Not Hispanic/Latino",80+,Male,0,0,257954,0,0
+2022,"Black or African American, Hispanic/Latino",40-44,Female,0,0,77504,0,0
+2022,"Black or African American, Hispanic/Latino",45-49,Female,0,0,71313,0,0
+2022,"Black or African American, Hispanic/Latino",5-9,Male,0,0,174878,0,0
+2022,"Black or African American, Hispanic/Latino",50-54,Female,0,0,58127,0,0
+2022,"Black or African American, Hispanic/Latino",60-64,Female,0,0,41710,0,0
+2022,"Black or African American, Hispanic/Latino",60-64,Male,0,0,34970,0,0
+2022,"Black or African American, Hispanic/Latino",65-69,Female,0,0,31776,0,0
+2022,"Black or African American, Hispanic/Latino",70-74,Female,0,0,25730,0,0
+2022,"Black or African American, Hispanic/Latino",75-79,Female,0,0,14470,0,0
+2022,"Black or African American, Hispanic/Latino",75-79,Male,0,0,13071,0,0
+2022,"Black or African American, Hispanic/Latino",80+,Female,0,0,16540,0,0
+2022,"Black or African American, Hispanic/Latino",80+,Male,0,0,9666,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,Female,0,0,8300,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,Male,0,0,7274,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,Female,0,0,7379,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,Female,0,0,7930,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,Female,0,0,5498,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,Female,0,0,5845,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,Female,0,0,5733,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,Female,0,0,3957,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,Female,0,0,4839,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,Male,0,0,3982,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,Female,0,0,9014,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,Male,0,0,8798,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,Female,0,0,3105,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,Male,0,0,4057,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,Female,0,0,2449,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,Female,0,0,2150,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,Male,0,0,1196,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,Female,0,0,1012,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,Male,0,0,686,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,Female,0,0,1009,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,Male,0,0,354,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,Female,0,0,447,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,Male,0,0,1039,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,Female,0,0,849,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,Male,0,0,419,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,Female,0,0,27100,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,Female,0,0,30346,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,Female,0,0,28561,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,Female,0,0,25289,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,Female,0,0,25785,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,Male,0,0,35307,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,Female,0,0,22147,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,Female,0,0,20098,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,Male,0,0,18621,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,Female,0,0,14388,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,Male,0,0,13812,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,Female,0,0,11123,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,Male,0,0,10357,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,Female,0,0,8440,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,Male,0,0,5887,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,Female,0,0,10246,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,Male,0,0,4973,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",0-4,Female,0,0,111693,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",0-4,Male,0,0,115343,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",10-14,Female,0,0,123579,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",10-14,Male,0,0,136846,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",20-24,Female,0,0,122076,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",25-29,Female,0,0,115655,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",25-29,Male,0,0,130644,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",30-34,Female,0,0,128740,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",35-39,Female,0,0,110721,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",45-49,Female,0,0,91411,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",45-49,Male,0,0,102745,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",5-9,Female,0,0,115419,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",5-9,Male,0,0,129513,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",50-54,Female,0,0,88528,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",50-54,Male,0,0,81348,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",55-59,Female,0,0,63814,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",55-59,Male,0,0,81443,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",60-64,Female,0,0,53192,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",65-69,Female,0,0,43808,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",70-74,Female,0,0,28209,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",70-74,Male,0,0,28254,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",75-79,Female,0,0,16096,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",75-79,Male,0,0,12755,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",80+,Female,0,0,20201,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",80+,Male,0,0,13665,0,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,Female,0,0,141625,0,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,Female,0,0,124817,0,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,Female,0,0,99555,0,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,Female,0,0,62628,0,0
+2023,"Asian, Hispanic/Latino",0-4,Female,0,0,65846,0,0
+2023,"Asian, Hispanic/Latino",0-4,Male,0,0,64729,0,0
+2023,"Asian, Hispanic/Latino",10-14,Female,0,0,56843,0,0
+2023,"Asian, Hispanic/Latino",10-14,Male,0,0,59203,0,0
+2023,"Asian, Hispanic/Latino",15-19,Female,0,0,43958,0,0
+2023,"Asian, Hispanic/Latino",15-19,Male,0,0,47873,0,0
+2023,"Asian, Hispanic/Latino",20-24,Female,0,0,38120,0,0
+2023,"Asian, Hispanic/Latino",25-29,Female,0,0,30152,0,0
+2023,"Asian, Hispanic/Latino",30-34,Female,0,0,30353,0,0
+2023,"Asian, Hispanic/Latino",30-34,Male,0,0,32756,0,0
+2023,"Asian, Hispanic/Latino",35-39,Female,0,0,24957,0,0
+2023,"Asian, Hispanic/Latino",35-39,Male,0,0,24024,0,0
+2023,"Asian, Hispanic/Latino",40-44,Female,0,0,19174,0,0
+2023,"Asian, Hispanic/Latino",40-44,Male,0,0,22440,0,0
+2023,"Asian, Hispanic/Latino",45-49,Female,0,0,13364,0,0
+2023,"Asian, Hispanic/Latino",5-9,Female,0,0,53647,0,0
+2023,"Asian, Hispanic/Latino",5-9,Male,0,0,60826,0,0
+2023,"Asian, Hispanic/Latino",50-54,Female,0,0,17123,0,0
+2023,"Asian, Hispanic/Latino",50-54,Male,0,0,12224,0,0
+2023,"Asian, Hispanic/Latino",55-59,Female,0,0,12582,0,0
+2023,"Asian, Hispanic/Latino",55-59,Male,0,0,9018,0,0
+2023,"Asian, Hispanic/Latino",60-64,Female,0,0,9724,0,0
+2023,"Asian, Hispanic/Latino",60-64,Male,0,0,10972,0,0
+2023,"Asian, Hispanic/Latino",65-69,Female,0,0,6912,0,0
+2023,"Asian, Hispanic/Latino",65-69,Male,0,0,5945,0,0
+2023,"Asian, Hispanic/Latino",70-74,Female,0,0,7457,0,0
+2023,"Asian, Hispanic/Latino",75-79,Female,0,0,3980,0,0
+2023,"Asian, Hispanic/Latino",80+,Female,0,0,4907,0,0
+2023,"Asian, Hispanic/Latino",80+,Male,0,0,4026,0,0
+2023,"Black or African American, Hispanic/Latino",10-14,Female,0,0,170546,0,0
+2023,"Black or African American, Hispanic/Latino",10-14,Male,0,0,173090,0,0
+2023,"Black or African American, Hispanic/Latino",5-9,Male,0,0,175237,0,0
+2023,"Black or African American, Hispanic/Latino",50-54,Female,0,0,64693,0,0
+2023,"Black or African American, Hispanic/Latino",60-64,Female,0,0,44543,0,0
+2023,"Black or African American, Hispanic/Latino",65-69,Female,0,0,34566,0,0
+2023,"Black or African American, Hispanic/Latino",70-74,Female,0,0,25284,0,0
+2023,"Black or African American, Hispanic/Latino",70-74,Male,0,0,24695,0,0
+2023,"Black or African American, Hispanic/Latino",75-79,Female,0,0,20497,0,0
+2023,"Black or African American, Hispanic/Latino",75-79,Male,0,0,11039,0,0
+2023,"Black or African American, Hispanic/Latino",80+,Female,0,0,24139,0,0
+2023,"Black or African American, Hispanic/Latino",80+,Male,0,0,12128,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,Female,0,0,6145,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,Male,0,0,8766,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,Female,0,0,6761,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,Male,0,0,6670,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,Female,0,0,7196,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,Female,0,0,5522,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,Female,0,0,8522,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,Female,0,0,6053,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,Male,0,0,6633,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,Female,0,0,4734,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,Female,0,0,6219,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,Male,0,0,4304,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,Female,0,0,3855,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,Female,0,0,7373,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,Male,0,0,7553,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,Female,0,0,4360,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,Male,0,0,4448,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,Female,0,0,3448,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,Male,0,0,2876,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,Female,0,0,1237,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,Male,0,0,2622,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,Female,0,0,2220,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,Male,0,0,1025,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,Female,0,0,967,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,Male,0,0,926,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,Female,0,0,482,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,Male,0,0,650,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,Female,0,0,1110,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,Male,0,0,813,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,Female,0,0,25462,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,Male,0,0,30188,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,Female,0,0,26213,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,Female,0,0,24501,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,Male,0,0,29209,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,Female,0,0,22442,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,Male,0,0,8338,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,Female,0,0,9521,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,Male,0,0,6596,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",0-4,Female,0,0,127228,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",0-4,Male,0,0,118872,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",10-14,Female,0,0,128646,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",10-14,Male,0,0,137488,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",20-24,Female,0,0,130173,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",30-34,Female,0,0,121754,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",40-44,Female,0,0,120187,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",45-49,Female,0,0,100901,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",45-49,Male,0,0,117734,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",5-9,Female,0,0,117821,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",5-9,Male,0,0,119593,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",50-54,Female,0,0,81499,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",50-54,Male,0,0,95006,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",55-59,Female,0,0,70335,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",55-59,Male,0,0,77548,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",60-64,Female,0,0,65611,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",60-64,Male,0,0,66034,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",65-69,Female,0,0,49871,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",65-69,Male,0,0,46583,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",70-74,Female,0,0,34725,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",70-74,Male,0,0,34557,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",75-79,Female,0,0,20187,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",75-79,Male,0,0,17046,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",80+,Female,0,0,23349,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",80+,Male,0,0,16566,0,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,Female,0,0,132793,0,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,Female,0,0,137200,0,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,Female,0,0,105396,0,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,Female,0,0,77192,0,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",80+,Male,0,0,49850,0,0
+2024,"Asian, Hispanic/Latino",0-4,Female,0,0,74207,0,0
+2024,"Asian, Hispanic/Latino",0-4,Male,0,0,76324,0,0
+2024,"Asian, Hispanic/Latino",10-14,Female,0,0,56966,0,0
+2024,"Asian, Hispanic/Latino",10-14,Male,0,0,62599,0,0
+2024,"Asian, Hispanic/Latino",15-19,Female,0,0,49911,0,0
+2024,"Asian, Hispanic/Latino",20-24,Female,0,0,36321,0,0
+2024,"Asian, Hispanic/Latino",25-29,Female,0,0,33253,0,0
+2024,"Asian, Hispanic/Latino",25-29,Male,0,0,31529,0,0
+2024,"Asian, Hispanic/Latino",30-34,Female,0,0,32273,0,0
+2024,"Asian, Hispanic/Latino",35-39,Female,0,0,27165,0,0
+2024,"Asian, Hispanic/Latino",40-44,Female,0,0,21642,0,0
+2024,"Asian, Hispanic/Latino",40-44,Male,0,0,19787,0,0
+2024,"Asian, Hispanic/Latino",45-49,Female,0,0,18823,0,0
+2024,"Asian, Hispanic/Latino",45-49,Male,0,0,17237,0,0
+2024,"Asian, Hispanic/Latino",5-9,Female,0,0,59600,0,0
+2024,"Asian, Hispanic/Latino",5-9,Male,0,0,65295,0,0
+2024,"Asian, Hispanic/Latino",50-54,Female,0,0,15708,0,0
+2024,"Asian, Hispanic/Latino",50-54,Male,0,0,14126,0,0
+2024,"Asian, Hispanic/Latino",55-59,Female,0,0,12678,0,0
+2024,"Asian, Hispanic/Latino",55-59,Male,0,0,10080,0,0
+2024,"Asian, Hispanic/Latino",60-64,Female,0,0,9588,0,0
+2024,"Asian, Hispanic/Latino",60-64,Male,0,0,11452,0,0
+2024,"Asian, Hispanic/Latino",65-69,Female,0,0,7963,0,0
+2024,"Asian, Hispanic/Latino",65-69,Male,0,0,5391,0,0
+2024,"Asian, Hispanic/Latino",70-74,Female,0,0,5081,0,0
+2024,"Asian, Hispanic/Latino",70-74,Male,0,0,6268,0,0
+2024,"Asian, Hispanic/Latino",75-79,Female,0,0,4185,0,0
+2024,"Asian, Hispanic/Latino",75-79,Male,0,0,3616,0,0
+2024,"Asian, Hispanic/Latino",80+,Female,0,0,4915,0,0
+2024,"Asian, Hispanic/Latino",80+,Male,0,0,5395,0,0
+2024,"Asian, Not Hispanic/Latino",15-19,Female,0,0,782501,0,0
+2024,"Black or African American, Hispanic/Latino",10-14,Female,0,0,174244,0,0
+2024,"Black or African American, Hispanic/Latino",5-9,Female,0,0,188237,0,0
+2024,"Black or African American, Hispanic/Latino",55-59,Female,0,0,56020,0,0
+2024,"Black or African American, Hispanic/Latino",65-69,Female,0,0,37174,0,0
+2024,"Black or African American, Hispanic/Latino",70-74,Female,0,0,26457,0,0
+2024,"Black or African American, Hispanic/Latino",75-79,Female,0,0,17108,0,0
+2024,"Black or African American, Hispanic/Latino",75-79,Male,0,0,12488,0,0
+2024,"Black or African American, Hispanic/Latino",80+,Female,0,0,24540,0,0
+2024,"Black or African American, Hispanic/Latino",80+,Male,0,0,12008,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,Female,0,0,9185,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,Male,0,0,8530,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,Female,0,0,8815,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,Male,0,0,7926,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,Female,0,0,7938,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,Male,0,0,11286,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,Female,0,0,6837,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,Male,0,0,7036,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,Female,0,0,7076,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,Female,0,0,7864,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,Male,0,0,8893,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,Female,0,0,3524,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,Female,0,0,2892,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,Male,0,0,5291,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,Female,0,0,6294,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,Male,0,0,10880,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,Female,0,0,3137,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,Male,0,0,2611,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,Female,0,0,1868,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,Male,0,0,3051,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,Female,0,0,2635,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,Male,0,0,1120,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,Female,0,0,1368,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,Male,0,0,1407,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,Female,0,0,931,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,Male,0,0,1184,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,Female,0,0,607,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,Male,0,0,1080,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,Female,0,0,1122,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,Male,0,0,834,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,Female,0,0,34324,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,Male,0,0,32025,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,Female,0,0,37259,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,Female,0,0,31293,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,Female,0,0,24420,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,Female,0,0,28879,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,Male,0,0,32333,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,Female,0,0,21367,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,Male,0,0,24798,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,Female,0,0,20291,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,Male,0,0,17039,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,Female,0,0,18551,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,Male,0,0,16395,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,Female,0,0,13688,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,Male,0,0,12559,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,Female,0,0,7823,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,Male,0,0,9997,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,Female,0,0,9780,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,Male,0,0,4703,0,0

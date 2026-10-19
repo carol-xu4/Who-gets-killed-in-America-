@@ -253,3 +253,4 @@ write_csv(offenders, file.path(OUT_DIR, "offenders_murder_2021_2024.csv"), na = 
 write_csv(summary,   file.path(OUT_DIR, "extract_summary.csv"))
 
 print(summary, width = Inf)
+
