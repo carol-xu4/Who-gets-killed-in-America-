@@ -94,7 +94,7 @@ acs = acs %>%
   mutate(state_usps = fips_to_usps[sprintf("%02d", statefip)])
 
 ## Checks --------------------------------------------------------------------
-# missingness among in-scope (50 states + DC) records
+# missingness 
 acs %>% filter(!is.na(state_usps)) %>%
   summarise(across(c(nativity, age_group), ~ sum(is.na(.x)))) %>% print()
 
@@ -104,4 +104,4 @@ acs %>% filter(!is.na(nativity)) %>%
   summarise(pop_millions = round(sum(perwt) / 1e6, 1), .groups = "drop") %>%
   print(n = Inf)
 
-saveRDS(acs, "data/output/acs_nvss.rds")
+saveRDS(acs, "NVSS-data/output/acs_nvss.rds")

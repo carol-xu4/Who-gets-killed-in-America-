@@ -97,7 +97,7 @@ col_positions_new = fwf_positions(
     "occupation_recode", "industry_code", "industry_recode"))
 
 ## Read data -----------------------------------------------------------------------------------
-# non US state/DC residents removed (territories also removed)
+# non US state/DC residents removed (territories)
 read_homicides = function(path, col_positions) {
   read_fwf(path, col_positions = col_positions, col_types = cols(.default = "c")) |>
     filter(

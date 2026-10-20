@@ -1,0 +1,21 @@
+category,race_group,ethnicity_group,nativity,n,pop,crude_rate,age_adjusted_rate
+"AIAN, Hispanic, Foreign-born",AIAN,Hispanic,foreign,16,3206218,0.49903032170613476,0.33983309694432057
+"AIAN, Hispanic, Native-born",AIAN,Hispanic,native,342,7141647,4.788811320413904,4.745998281688825
+"AIAN, Non-Hispanic, Foreign-born",AIAN,Non-Hispanic,foreign,13,328568,3.956563025005478,3.249606069201782
+"AIAN, Non-Hispanic, Native-born",AIAN,Non-Hispanic,native,3215,21433597,14.99981547660899,15.35835226494597
+"Asian or Pacific Islander, Hispanic, Foreign-born",Asian or Pacific Islander,Hispanic,foreign,54,704240,7.667840508917415,7.535582962996192
+"Asian or Pacific Islander, Hispanic, Native-born",Asian or Pacific Islander,Hispanic,native,113,2355652,4.796973406937867,4.015569653642351
+"Asian or Pacific Islander, Non-Hispanic, Foreign-born",Asian or Pacific Islander,Non-Hispanic,foreign,2381,138126883,1.7237774054453974,1.4927259801933532
+"Asian or Pacific Islander, Non-Hispanic, Native-born",Asian or Pacific Islander,Non-Hispanic,native,1163,69660587,1.6695236863278227,1.7779196141159481
+"Black, Hispanic, Foreign-born",Black,Hispanic,foreign,259,2609426,9.925554508922652,9.03047726512045
+"Black, Hispanic, Native-born",Black,Hispanic,native,1357,9819064,13.82005453880329,12.734701572768724
+"Black, Non-Hispanic, Foreign-born",Black,Non-Hispanic,foreign,3022,46612683,6.483214021385553,5.853942266687348
+"Black, Non-Hispanic, Native-born",Black,Non-Hispanic,native,115584,390615342,29.59023560318837,29.362742326056527
+"More than one race, Hispanic, Foreign-born",More than one race,Hispanic,foreign,14,40946230,0.03419118194764207,0.028152006111151536
+"More than one race, Hispanic, Native-born",More than one race,Hispanic,native,638,104047677,0.6131804365031619,0.5921008517229798
+"More than one race, Non-Hispanic, Foreign-born",More than one race,Non-Hispanic,foreign,143,11717342,1.2204132985108738,1.0811669160743185
+"More than one race, Non-Hispanic, Native-born",More than one race,Non-Hispanic,native,2603,108622779,2.3963666037305122,2.3972734763537153
+"White, Hispanic, Foreign-born",White,Hispanic,foreign,11330,88619957,12.784930599774496,11.714243935817473
+"White, Hispanic, Native-born",White,Hispanic,native,24663,197099859,12.512946546552325,13.14825558405
+"White, Non-Hispanic, Foreign-born",White,Non-Hispanic,foreign,2285,101970277,2.2408490662430975,2.143633231305887
+"White, Non-Hispanic, Native-born",White,Non-Hispanic,native,57672,2042665577,2.823369652349118,2.9204533601673863
