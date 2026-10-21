@@ -268,6 +268,27 @@ print(age_adjusted_rates, n = Inf)
 
 write_csv(age_adjusted_rates, "results/age_adjusted_homicide_rates_nativity_year.csv")
 
+# table a5. crude and age-adjusted us-born and foreign-born homicide rates
+table_a5 = homicide_rates_by_nativity %>%
+    select(data_year, nativity, n, pop, crude_rate = rate) %>%
+    left_join(age_adjusted_rates, by = c("data_year", "nativity")) %>%
+    filter(!is.na(nativity)) %>%
+    mutate(
+        crude_rate = round(crude_rate, 2),
+        age_adjusted_rate = round(age_adjusted_rate, 2)) %>%
+    arrange(data_year, nativity) %>%
+    rename(
+        Year = data_year,
+        Nativity = nativity,
+        Homicides = n,
+        Population = pop,
+        `Crude Homicide Rate` = crude_rate,
+        `Age-adjusted Homicide Rate` = age_adjusted_rate)
+
+print(table_a5, n = Inf)
+
+write_csv(table_a5, "results/table_a5_crude_and_age_adjusted_homicide_rates_by_nativity_2014_2024.csv")
+
 # table a6. crude and age-adjusted homicide rates by nativity, 2014-2024
 nativity_rates_table = homicide_rates_by_nativity %>%
     select(data_year, nativity, n, pop, crude_rate = rate) %>%
@@ -281,6 +302,63 @@ nativity_rates_table = homicide_rates_by_nativity %>%
 print(nativity_rates_table, n = Inf)
 
 write_csv(nativity_rates_table, "results/table_a6_crude_and_age_adjusted_homicide_rates_by_nativity_2014_2024.csv")
+
+# pooled (2014-2024) crude and age-adjusted homicide rates by state and nativity
+homicides_age_state_nativity_pooled = homicides %>%
+    filter(!is.na(nativity), age_recode12 != "12") %>%
+    group_by(state_res_fips, nativity, age_recode12) %>%
+    summarize(n = n(), .groups = "drop")
+
+acs_age_state_nativity_pooled = acs %>%
+    filter(!is.na(nativity), !is.na(age_group)) %>%
+    mutate(state_usps = fips_to_usps[sprintf("%02d", as.integer(statefip))]) %>%
+    group_by(state_usps, nativity, age_group) %>%
+    summarize(pop = sum(perwt), .groups = "drop")
+
+age_specific_state_nativity_pooled = homicides_age_state_nativity_pooled %>%
+    left_join(
+        acs_age_state_nativity_pooled,
+        by = c("state_res_fips" = "state_usps", "nativity", "age_recode12" = "age_group")) %>%
+    mutate(
+        rate_i = n / pop * 100000,
+        weight = standard_weights[age_recode12],
+        weighted_rate = rate_i * weight)
+
+totals_state_nativity_pooled = age_specific_state_nativity_pooled %>%
+    group_by(state_res_fips, nativity) %>%
+    summarize(n = sum(n), pop = sum(pop), .groups = "drop") %>%
+    mutate(crude_rate = n / pop * 100000)
+
+age_adjusted_state_nativity_pooled = age_specific_state_nativity_pooled %>%
+    group_by(state_res_fips, nativity) %>%
+    summarize(age_adjusted_rate = sum(weighted_rate), .groups = "drop")
+
+state_rates_by_nativity_pooled = totals_state_nativity_pooled %>%
+    left_join(age_adjusted_state_nativity_pooled, by = c("state_res_fips", "nativity")) %>%
+    mutate(
+        suppressed = n > 0 & n < 10,                                   # NCHS suppression: counts 1-9 not reportable
+        n = if_else(suppressed, NA_integer_, n),
+        crude_rate = if_else(suppressed, NA_real_, crude_rate),
+        age_adjusted_rate = if_else(suppressed, NA_real_, age_adjusted_rate)) %>%
+    select(state_res_fips, nativity, n, pop, crude_rate, age_adjusted_rate)
+
+print(state_rates_by_nativity_pooled, n = Inf)
+
+write_csv(state_rates_by_nativity_pooled, "results/age_adjusted_homicide_rates_by_state_nativity_pooled_2014_2024.csv")
+
+state_rate_table_pooled = state_rates_by_nativity_pooled %>%
+    select(state_res_fips, nativity, age_adjusted_rate) %>%
+    pivot_wider(names_from = nativity, values_from = age_adjusted_rate,
+                names_glue = "{nativity}_rate") %>%
+    rename(state = state_res_fips) %>%
+    mutate(
+        native_rate = round(native_rate, 2),
+        foreign_rate = round(foreign_rate, 2)) %>%
+    arrange(state)
+
+print(state_rate_table_pooled, n = Inf)
+
+write_csv(state_rate_table_pooled, "results/table_a7_state_rate_table_native_foreign_pooled_2014_2024.csv")
 
 # fig. 5 age-adjusted homicide rates by nativity
 ggplot(age_adjusted_rates,aes(x = data_year, y = age_adjusted_rate, color = nativity)) +
@@ -624,6 +702,14 @@ age_adjusted_by_state = function(nat, yr = 2024) {
 native_rate_2024  = age_adjusted_by_state("native")
 foreign_rate_2024 = age_adjusted_by_state("foreign")   
 
+# total number of immigrants 2014-2024
+immigrants = acs %>%
+  filter(nativity == "foreign") %>%
+  group_by(year) %>%
+  summarize(immig_pop = sum(perwt), .groups = "drop")
+
+print(immigrants)
+
 # foreign-born share of TOTAL state population
 immig_share_2024 = acs %>%
   filter(year == 2024) %>%
@@ -645,7 +731,7 @@ fig_share = ggplot(plot_data_2024, aes(x = immig_share, y = age_adjusted_rate)) 
   geom_point(color = colors_2[1], size = 2.4) +
   ggrepel::geom_text_repel(aes(label = state), size = 3) +
   labs(
-    title = "Immigrant Share vs. Native-Born Homicide Rate by State",
+    title = "States with more immigrants do not have higher US-born homicide rates",
     subtitle = sprintf("2024, age-adjusted rate per 100,000 native-born population (r = %.2f)", r),
     x = "Immigrants as % of state population",
     y = "Age-adjusted native-born homicide rate per 100,000",
@@ -685,6 +771,15 @@ totals_state_nativity_2024 = age_specific_state_nativity_2024 %>%
 age_adjusted_state_nativity_2024 = age_specific_state_nativity_2024 %>%
     group_by(state_res_fips, nativity) %>%
     summarize(age_adjusted_rate = sum(weighted_rate), .groups = "drop")
+
+state_rates_by_nativity_2024 = totals_state_nativity_2024 %>%
+    left_join(age_adjusted_state_nativity_2024, by = c("state_res_fips", "nativity")) %>%
+    mutate(
+        crude_rate =  crude_rate,
+        age_adjusted_rate = age_adjusted_rate) %>%
+    select(state_res_fips, nativity, n, pop, crude_rate, age_adjusted_rate)
+
+print(state_rates_by_nativity_2024, n = Inf)
 
 state_rates_by_nativity_2024 = totals_state_nativity_2024 %>%
     left_join(age_adjusted_state_nativity_2024, by = c("state_res_fips", "nativity")) %>%

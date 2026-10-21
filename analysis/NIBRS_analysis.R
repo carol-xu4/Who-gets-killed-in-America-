@@ -18,15 +18,7 @@ acs = readRDS("NIBRS-data/output/acs_nibrs.rds")
 
 #######################################################################
 
-if (!require("pacman")) install.packages("pacman")
-pacman::p_load(tidyverse, ggthemes, readxl, data.table, gdata, ipumsr, matrixStats, scales)
-
-count = dplyr::count
-
-setwd("C:/Users/CarolXu/Who gets killed in America - NVSS and NIBRS")
-
 # TABLE A2. Victimization and offending rates by race and ethnicity, with unknowns
-
 # victims by race and ethnicity
 victims_race_eth = victims %>%
   mutate(
@@ -526,6 +518,109 @@ ggplot(relationship_plot, aes(x = pct_of_victims, y = relationship_group)) +
   )
 
 ggsave("results/figure_2_relationship_victims_2021_2024.png", width = 11, height = 6.5)
+
+# FIGURE 2 v2 - pie chart
+relationship_pie_data = relationship_victims %>%
+  mutate(group = if_else(
+    relationship_group %in% c("Intimate partner", "Family", "Acquaintance or otherwise known"),
+    "Knew offender", "Other")) %>%
+  group_by(group) %>%
+  summarise(victims = sum(victims), .groups = "drop") %>%
+  mutate(
+    group = factor(group, levels = c("Knew offender", "Other")),
+    pct_of_victims = round(100 * victims / sum(victims), 1)) %>%
+  arrange(group) %>%
+  mutate(
+    ymax = cumsum(victims),
+    ymin = lag(ymax, default = 0),
+    ymid = (ymin + ymax) / 2)
+
+subgroup_lookup = relationship_victims %>%
+  select(relationship_group, pct_of_victims) %>%
+  deframe()
+
+subgroup_labels = tibble(
+  group = factor(c("Knew offender", "Other"), levels = c("Knew offender", "Other")),
+  label = c(
+    paste0(
+      "Intimate partner: ", subgroup_lookup[["Intimate partner"]], "%\n",
+      "Family: ", subgroup_lookup[["Family"]], "%\n",
+      "Acquaintance or otherwise known: ", subgroup_lookup[["Acquaintance or otherwise known"]], "%"),
+    paste0(
+      "Stranger: ", subgroup_lookup[["Stranger"]], "%\n",
+      "Victim was also an offender: ", subgroup_lookup[["Victim was also an offender"]], "%"))) %>%
+  left_join(relationship_pie_data %>% select(group, ymid), by = "group")
+
+colors_relationship = c("Knew offender" = "#3043B4", "Other" = "#C97703")
+
+ggplot(relationship_pie_data, aes(x = 1, y = victims, fill = group)) +
+  geom_col(width = 2, color = "white", linewidth = 1, position = position_stack(reverse = TRUE)) +
+  coord_polar(theta = "y") +
+  xlim(0, 3.2) +
+  scale_fill_manual(values = colors_relationship) +
+  geom_text(aes(x = 1, y = ymid, label = paste0(pct_of_victims, "%")),
+            size = 9, color = "white", fontface = "bold") +
+  geom_text(data = subgroup_labels, aes(x = 2.6, y = ymid, label = label),
+            size = 5, color = "gray30", lineheight = 1.1, inherit.aes = FALSE) +
+  labs(
+    title = "Most homicide victims were killed by someone they knew",
+    subtitle = paste0("Relationship of victim to offender, share of victims with known relationship, 2021-2024\n",
+                      "Relationship was unknown for ", pct_unknown_victims, "% of victims with a known offender"),
+    fill = NULL,
+    caption = paste0(
+      "Source: Bureau of Justice Statistics, NIBRS Extract Files, 2021-2024, via ICPSR. Murder and nonnegligent manslaughter (UCR 091).\n",
+      "Victims with more than one offender are assigned their closest relationship (intimate partner, family, acquaintance, then stranger).\nVictims with no known offender or unknown relationship are excluded.")
+  ) +
+  theme_void() +
+  theme(
+    plot.title = element_text(size = 22, face = "bold", hjust = 0, color = "black"),
+    plot.subtitle = element_text(size = 14, color = "gray40", hjust = 0, margin = margin(b = 12)),
+    legend.position = "top",
+    legend.justification = "left",
+    legend.text = element_text(size = 14),
+    plot.caption = element_text(size = 10, color = "gray40", hjust = 0),
+    plot.caption.position = "plot",
+    plot.title.position = "plot",
+    plot.background = element_rect(fill = "white", color = NA),
+    panel.background = element_rect(fill = "white", color = NA))
+
+ggsave("results/figure_2v3_relationship_pie_with_subgroup_labels_2021_2024.png", width = 10, height = 9)
+
+colors_relationship_all = c(
+  "Intimate partner"                = "#1B2560",
+  "Family"                          = "#3043B4",
+  "Acquaintance or otherwise known" = "#7B8AD6",
+  "Victim was also an offender"     = "#E3A94D",
+  "Stranger"                        = "#C97703")
+
+ggplot(relationship_victims, aes(x = "", y = victims, fill = relationship_group)) +
+  geom_col(width = 1, color = "white", linewidth = 1) +
+  coord_polar(theta = "y") +
+  scale_fill_manual(values = colors_relationship_all) +
+  geom_text(aes(label = paste0(pct_of_victims, "%")),
+            position = position_stack(vjust = 0.5), size = 5, color = "white", fontface = "bold") +
+  labs(
+    title = "Most homicide victims were killed by someone they knew",
+    subtitle = paste0("Relationship of victim to offender, share of victims with known relationship, 2021-2024\n",
+                      "Relationship was unknown for ", pct_unknown_victims, "% of victims with a known offender"),
+    fill = NULL,
+    caption = paste0(
+      "Source: Bureau of Justice Statistics, NIBRS Extract Files, 2021-2024, via ICPSR. Murder and nonnegligent manslaughter (UCR 091).\n",
+      "Victims with more than one offender are assigned their closest relationship (intimate partner, family, acquaintance, then stranger).\nVictims with no known offender or unknown relationship are excluded.")
+  ) +
+  theme_void() +
+  theme(
+    plot.title = element_text(size = 22, face = "bold", hjust = 0, color = "black"),
+    plot.subtitle = element_text(size = 14, color = "gray40", hjust = 0, margin = margin(b = 12)),
+    legend.position = "right",
+    legend.text = element_text(size = 12),
+    plot.caption = element_text(size = 10, color = "gray40", hjust = 0),
+    plot.caption.position = "plot",
+    plot.title.position = "plot",
+    plot.background = element_rect(fill = "white", color = NA),
+    panel.background = element_rect(fill = "white", color = NA))
+
+ggsave("results/figure_2v4_relationship_pie_all_categories_2021_2024.png", width = 10, height = 9)
 
 ## FIGURE 1. Groups with higher murder victimization rates have higher offending rates
 age_keep = c("15-19", "20-24", "25-29", "30-34", "35-39", "40-44", "45-49", "50-54")
